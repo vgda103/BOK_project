@@ -1,4 +1,4 @@
-# Scrapy settings for infomax_idx project
+# Scrapy settings for einfomax_news project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,18 +7,18 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "infomax_idx"
+BOT_NAME = "einfomax_news"
 
-SPIDER_MODULES = ["infomax_idx.spiders"]
-NEWSPIDER_MODULE = "infomax_idx.spiders"
+SPIDER_MODULES = ["einfomax_news.spiders"]
+NEWSPIDER_MODULE = "einfomax_news.spiders"
+LOG_LEVEL = 'ERROR'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
 
-
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = "infomax_idx (+http://www.yourdomain.com)"
+#USER_AGENT = "einfomax_news (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
-#ROBOTSTXT_OBEY = True
+# ROBOTSTXT_OBEY = True
 ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = False
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    "infomax_idx.middlewares.InfomaxIdxSpiderMiddleware": 543,
+#    "einfomax_news.middlewares.EinfomaxNewsSpiderMiddleware": 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    "infomax_idx.middlewares.InfomaxIdxDownloaderMiddleware": 543,
+#    "einfomax_news.middlewares.EinfomaxNewsDownloaderMiddleware": 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   "infomax_idx.pipelines.InfoMaxIdxCsvPipeline": 300,
+   "einfomax_news.pipelines.EinfomaxCsvPipeline": 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

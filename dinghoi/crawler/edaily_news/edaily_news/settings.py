@@ -11,7 +11,7 @@ BOT_NAME = "edaily_news"
 
 SPIDER_MODULES = ["edaily_news.spiders"]
 NEWSPIDER_MODULE = "edaily_news.spiders"
-
+LOG_LEVEL = 'ERROR'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "edaily_news (+http://www.yourdomain.com)"
@@ -63,6 +63,7 @@ ROBOTSTXT_OBEY = False
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
+# 크롤링 시 EdailyCsvPipeline 설정
 ITEM_PIPELINES = {
    "edaily_news.pipelines.EdailyCsvPipeline": 300,
 }

@@ -7,27 +7,35 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 
-
-# class InfomaxNewsPipeline:
+# class EinfomaxNewsPipeline:
 #     def process_item(self, item, spider):
 #         return item
 
+#from __future__ import unicode_literals
 from scrapy.exporters import CsvItemExporter, XmlItemExporter, JsonItemExporter
 from scrapy.exceptions import DropItem
-    
-class InfoMaxCsvPipeline(object):
+from scrapy.exceptions import DropItem
+#from scrapy import log
+
+# CSV 파일로 저장하는 클래스
+class EinfomaxCsvPipeline(object):
     def __init__(self):
-        self.file = open("../assets/infomax_news.csv", 'wb')
+        self.file = open("../assets/einfomax_news.csv", 'wb')
         self.exporter = CsvItemExporter(self.file, encoding='utf-8')
         self.exporter.start_exporting()
         
-        self.ids_seen = set()
+        # self.ids_seen = set()
         
     def close_spider(self, spider):
         self.exporter.finish_exporting()
         self.file.close()
     
     def process_item(self, item, spider):        
-        self.exporter.export_item(item)       
-    
-        return item    
+        self.exporter.export_item(item)
+        
+        # if item['idx'] in self.ids_seen:
+        #     raise DropItem("Duplicate item found: %s" % item)
+        # else:
+        #     self.ids_seen.add(item['idx'])
+            
+        return item

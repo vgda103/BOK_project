@@ -5,8 +5,11 @@
 
 import scrapy
 
-
-class InfomaxIdxItem(scrapy.Item):
+class EinfomaxNewsItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    #press = scrapy.Field()
+    title = scrapy.Field()
+    article = scrapy.Field()
+    w_date = scrapy.Field()
     pass
