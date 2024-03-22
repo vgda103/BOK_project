@@ -10,7 +10,7 @@ class EinfoMaxSpider(scrapy.Spider):
     
     def start_requests(self):
         total = 100 # 기사 건수
-        pageNum = 20
+        pageNum = 60
         
         #for i in range(1, pageNum, 1):
         for i in range(1, pageNum):            
