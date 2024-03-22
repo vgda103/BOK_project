@@ -19,7 +19,7 @@ def pdf_to_txt(csv_file_name):
             for page in doc:
                 content += page.get_text()
                 txt_name = dir2 + df_info_list[4]
-                with open(txt_name, 'w') as f:
+                with open(txt_name, 'w', encoding='utf-8') as f:
                     f.write(content)
         if i%100==0:
             print(f'txt {i}개 변환 완료') # 100개 변환마다 알림
