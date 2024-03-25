@@ -32,3 +32,5 @@ doc/**/*.pdf
 *.pdf
 
 *.csv
+
+*.pyc
