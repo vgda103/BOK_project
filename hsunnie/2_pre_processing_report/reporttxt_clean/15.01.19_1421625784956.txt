@@ -1,0 +1,66 @@
+ 본 조사분석자료는 당사 리서치센터에서 신뢰할 만한 자료 및 정보를 바탕으로 작성한 것이나 당사는 그 정확성이나 완전성을 보장할 수 없으며 과거의 자료를 기초로 한 투자참고 자료로서 향후 주가 움직 임은 과거의 패턴과 다를 수 있습니다.
+고객께서는 자신의 판단과 책임 하에 종목 선택이나 투자시기에 대해 최종 결정하시기 바라며 본 자료는 어떠한 경우에도 고객의 증권투자 결과에 대한 법적 책임소재 의 증빙자료로 사용될 수 없습니다.
+실적 패턴을 이용한 최종 선택 그룹의 수익률과 이익 예상치 변화율 SurpriseUPSurprise InlineUPSurprise InlineDNShock SurpriseDNShock 상대 Riskpremium좌축 컨센변화율우축 자료 Quantiwise IBK투자증권 서프라이즈 확률과 주가 상관관계로 보는 실적시즌 KOSPI 실적에는 Pattern이 있다 국내 상장사의 실적발표에는 크게 두 가지 Pattern이 존재한다.
+상고하저의 실적 계절성과 직전분기 호실적 또는 악실적이 다음 분기로 이어지는 연속성이 그것이다. 분기를 거듭할 수 록 Surprise와 Shock 확률은 역으로 움직이는 모습을 보이며 분기에 정점에 달한다. 또 한 같은 종목이 Shock을 기록할 확률은 무 려 에 달한다. Pattern을 이용한 퀀트전략 Simulation에는 실적구분 항식상향 하향을 사용해 총 실적구분 과 실적발표 후 직전분기 실적을 반영한 일 이후의 이번 분기에 대한 이익 추정 변화율 그리고 이번 분기의 실제 실적구분T으로 구성됐다. 실적구분의 기준은 이다. 위 기 준으로 산출된 최종 그룹의 공통점은 상대적으로 높은 수익률과 그룹 생성확률 그리고 예상 치 조정방향이 주가 수익률과 양의 상관관계를 갖고 있다는 점이다. 최종 선택된 그룹 의 연간복리 수익률을 기록하며 업사이드 뿐만 아니라 다운사이드 수익률까지 통제가 가능한 전략이다. Pattern 전략 조건을 적용한 분기 실적 및 주가를 예측하기 위한 조건 적용시 긍정적으로 접근 가능한 업종은 제약 디 스플레이패널 등이 있으며 부정적 시각 권고 업종으로는 운송 금융 기계 유틸리티 등이 확인된다. 직전분기 Surprise 또는 Inline 그룹의 이익하향 조정은 다음분기에 Shock으로 이어질 확률과 주가 및 예상치 조정율 상관관계가 가장 높다. Quantitative Solutions Issue Report 김 경 훈 Quant Analyst Quantitative Solutions 김경훈 국내 상장기업 실적 Pattern 읽기 분기실적의 계절성Seasonality과 연속성Continuity 지난 년 과 에 해당하는 수치로 뚜렷한 계절성을 보이고 있다. 그림 . 분기별 순이익과 KOSPI 추이 E P 조원 KOSPI 순이익 KOSPI 지수RHS 자료 Quantiwise IBK투자증권 올 년 이후 가장 큰 폭으로 진행됐음에도 불구하고 아직까지 현저히 높게 형성되어 있는 연간 순이익 예상 치에 기인한다. 또한 과거 년 상반기 정점을 찍은 뒤 현재까지 횡보하는 등 모든 경기 Cycle을 담고 있다. 아래 오른쪽 차 트는 년 이후 분기별 실제 지배순이익과 예상치의 오차로서 국내 애널리스트들 의 Overoptimism을 단적으로 보여준다.
+그림 년 KOSPI 지배순익 그림 년부터 현재까지 분기별 순익 오차율 Jan Feb Mar Apr May Jun Jul Sep Oct Nov Dec 년 년 년 년 Rebased Jan Q Q Q Q 자료 Quantiwise IBK투자증권 자료 Quantiwise IBK투자증권 김경훈 Quantitative Solutions 그림 확정치 vs.
+예상치 순이익 오차율 그림 현재 확정치 vs.
+예상치 순이익 오차율 Q Q Q Q Q Q Q Q 자료 Quantiwise IBK투자증권 자료 QuantiwiseIBK투자증권 이러한 Overoptimism에 따른 분기실적의 계절성은 과거 년을 전후하여 구분한다면 더욱 뚜렷해진다.
+오차율은 모두 상고하저의 모습을 보이고 있지만 KOSPI 순이익이 역성장을 시작한 년 이후의 오차율은 모든 분기 음수를 기록하며 추정치에 대한 신뢰도는 지속 하락하고 있는 실정이다.
+분기 평균 이였다.
+이를 분기별로 보면 실적의 계절성을 확인할 수 있다.
+분기를 거듭할 수록 Surprise와 Shock은 역으로 움직이는 모습을 보이며 분기에 정점에 달한다.
+또한 시계열을 세분화하여 최근 개년과 비교를 하면 이러한 현상은 더욱 심화된다.
+최근 국내기업들의 이익의 축소 과정에서 추정치의 하향곡선이 실재치 보다 완만 하게 진행되면서 발생하는 현상이다.
+실적과 주가 움직임이 정의관계를 갖고 있는 것을 감안하면 최근 낮아진 분기 Surprise 확률분기 종목 및 업종 선정을 더욱 어렵게 하는 대목임에 틀림없다.
+그림 개년 실적별 확률 그림 개년 분기별 실적 확률 Surprise Inline Shock Q Q Q Q 최근 개년 분기별 Surprise 확률 최근 개년 분기별 Shock 확률 자료 Quantiwise IBK투자증권 자료 Quantiwise IBK투자증권 Quantitative Solutions 김경훈 그림 개년 실적 확률비교 그림 개년 실적 확률비교 Q Q Q Q 최근 개년 분기별 Surprise 확률 최근 개년 분기별 Surprise 확률 Q Q Q Q 최근 개년 분기별 Shock 확률 최근 개년 분기별 Shock 확률 자료 Quantiwise IBK투자증권 자료 Quantiwise IBK투자증권 반복되는 분기의 저조한 실적이 국내 기업들이 갖고 있는 성격 중 하나라면 또 다른 하나 는 실적의 연속성이다.
+이는 직전 분기에 좋은 실적을 낸 기업이 다음분기에 호실적을 낼 확률과 직전 분기에 기대 이하의 실적을 기록한 기업이 다음분기에도 저조한 실적을 낼 확 률이 높다는 뜻이다.
+당연한 결과겠지만 확률적으로 연속성은 지속되는 범위를 단축할수록 빈도수는 높아진다.
+빈도수가 가장 높은 분기에 Surprise 확률은 낮아 지고 Shock확률은 상승하며 이러한 추세는 다음 분기까지 이어진다.
+실적의 연속성 역시 계절성의 고리를 물고 있다는 판단이다.
+역으로 예상치에 부합하는 확률은 분기에 가장 저조하다는 계산이 나온다.
+현재 대내외 경제환경 악화로 인한 KOSPI의 Catalyst가 부재한 상황에서 이러한 국내 상 장기업들의 실적 Pattern을 활용한 추가 수익률이 가능하다는 판단이다.
+그림 . KOSPI 상장사의 Surprise실적 연속성 그림 개분기 연속 Surprise 확률 개 분기 연속 Surprise 확률 개 분기 연속 Surprise 확률 개 분기 연속 Surprise 확률 Q Q Q Q 자료 Quantiwise IBK투자증권 자료 Quantiwise IBK투자증권 김경훈 Quantitative Solutions 그림 . KOSPI 상장사의 Shock실적 연속성 그림 개분기 연속 Shock 확률 개 분기 연속 Shock 확률 개 분기 연속 Shock 확률 개 분기 연속 Shock 확률 Q Q Q Q 자료 Quantiwise IBK투자증권 자료 Quantiwise IBK투자증권 Quantitative Solutions 김경훈 실적에 대한 생각 주가를 움직이는 Tool Fundamental 애널리스트에게 주가를 움직이는 tool이라 하면 기업이 이윤을 낼 수 있는 내재가치겠지만 Quant 애널리스에겐 그보다 더 혹독한 현재의 기업 실적이다.
+비록 앞서 언급한 것처럼 실적 예상치 특히 최근 분기에 대한 오차율은 상승 폭은 확대됐지만 분기 실적이 발표되기 전까지 예상치에 의존할 수 밖에 없는 것이 현실이다.
+그렇다면 주가는 어떤 실적에 더 크게 반응할까
+회계상 매출 영업이익 순이익 등 여러 가지 항목이 존재하지만 회사에 투자한 주주의 직접적인 몫인 순이익과 주가의 상관관계가 가장 높았다.
+아래 상관관계 차트의 기준은 개별 종목들의 직전 분기 실적발표일T과 이번 분기 실적 발표일T 간의 이익추정 변화율과 동기간 수익률을 도식화 한 것이다.
+추정 변화율 및 수 익률의 기간은 직전 일을 기준으로 정했다.
+이 구간의 시작점은 전 분기 실적발표일로서 발표된 실적을 토대로 일간의 다음 분기 실적에 대한 방향이 정해지는 시점인 것이다.
+즉 현재 유효한 퀀트전략인 셈이다.
+그림 . 개별 종목의 분기별 주가 수익률과 이익조정간의 상관관계 분기별 수익률 vs OP revision correlation 분기별 수익률 vs NP revision correlation 자료 Quantiwise IBK투자증권 김경훈 Quantitative Solutions 본격적인 Simulation에 앞서 왜 타분기 대비 분기에 Shock 확률이 높은지 알아보기로 하자.
+아래 차트는 실적구분에 따른 실적발표일 이후의 애널리스들의 예상치 상하향 조정 확률을 분기별로 나타낸 것으로 분기에 행보 를 달리하는 모습이다.
+그림 . Surprise 종목에 대한 이익상향추정 확률 그림 . Shock 종목에 대한 이익하향추정 확률 Q Q Q Q SurpriseT Upward revisionT ShockT Upward revisionT Q Q Q Q SurpriseT Downward revisionT ShockT Downward revisionT 자료 Quantiwise IBK투자증권 자료 Quantiwise IBK투자증권 분기에 Shock를 기록한 기업의 상향 이익추정 비율은 낮아지고 하향추정 비중은 높아짐 에도 불구하고 매년 Shock를 기록하는 이유는 아래 차트를 보면 알 수 있다.
+이는 Shock 종목 기준으로 하향조정 되는 종목수는 분기 대비 크지 않기 때문이다.
+오히려 상 하향 조정폭이 경상수준 이상으로 되돌아 오는 모습이다.
+KOSPI 전제적으로 보면 이익추정 변화폭은 상향일 때가 하향보다 배 이상 큰 것을 확인 할 수 있다.
+반면 분기실적이 가장 저조한 분기에 절반밖에 못미치고 있다.
+그림 분기 하향조정 폭 확대에 있을 것이다.
+예상치를 잣대로 실적구분을 짓는 만큼 분기 실적 하향폭의 확대는 예상치에 대한 신뢰도 회복에 절대적인 요건이다.
+그림 . 분기별 이익추정 변화폭 그림 . KOSPI 평균 이익추정 변화폭 Q Q Q Q 상향조정 하향조정 상향 하향 컨센변화율 표준편차 자료 Quantiwise IBK투자증권 자료 Quantiwise IBK투자증권 Quantitative Solutions 김경훈 Pattern 전략 Pattern 전략은 분기실적이 보유한 특성을 최대로 이용하기 위해 주가 수익률과 연계가 있는 순이익 및 애널리스트들의 예상치를 토대로 만들어진 전략이다.
+분기부터 Shock 확률은 로 호실적을 낼 확률은 악실적의 절반에 불과하다.
+이러한 환경에서 Surprise가 유력한 종목군을 찾아 수익률을 내보고자 한다.
+Simulation에는 실적구분 항식상향 하향을 사용해 총 실적구 분과 실적발표 후 직전분기 실적을 반영한 일 이후의 이번 분기에 대한 이익 추정 변화 율 그리고 이번 분기의 실제 실적구분T으로 구성됐다. 실적구분의 기준은 이다. 다시 말해 최근 이익 추정에 대한 신뢰도가 다소 하락한 상황에서 개 그룹 내 주가 움직 임과 분기실적이 시장 예상치로 추적 가능한 종목군을 찾는 것이 목표인 것이다. 표 . 실적구분과 이익 추정변화율 Simulation 결과물 그룹군 확률 예상치 변화율 상관관계 수익률 Riskpremium SurpriseUPSurprise SurpriseUPInline SurpriseUPShock SurpriseDNSurprise SurpriseDNInline SurpriseDNShock InlineUPSurprise InlineUPInline InlineUPShock InlineDNSurprise InlineDNInline InlineDNShock ShockUPSurprise ShockUPInline ShockUPShock ShockDNSurprise ShockDNInline ShockDNShock 자료 Quantiwise IBK투자증권 주 Surprise상회 Shcok하회 Inline부합 UP예상치 상향조정 DN예상치 하향조정 표의 푸른색 음영은 긍정적 쥐색 음영은 부정적 시각으로 구분된 최종 선택 그룹이다. 구 분의 기준은 수익률 vs.
+예상치 변화율의 상관관계 및 그룹생성 확률에 근거한다.
+김경훈 Quantitative Solutions 첫번째 기준인 수익률은 상대 Riskpremium 이상을 시현한 그룹이다.
+여기서 상대 Riskpremium이란 지난 년시장금리 평균 분기수익률연 의 합이다.
+KOSPI 수익률 외 국고채를 감안한 이유는 국내 소비감소 불황형 수출 지속 및 연내 미국 연준의 기준금리 인상과 유럽 deflation 우 려 러시아 defualt 위기 등 대내외적으로 불확실성이 상존하는 가운데 보다 높은 수익률을 추구하기 위함이다.
+아래 차트 파랑색 막대 총 개 그룹이 여기에 포함된다.
+그림 . 그룹별 상대 Riskpremium 수익률 자료 Quantiwise IBK투자증권 주 파란 막대는 KOSPI 및 국고채년물 수익률 초과 그룹 글로벌 불황 장기화 추세에서 고수익을 무분별하게 좇기보단 주가의 움직임을 파악할 수 있는 도구가 필요한데 이러한 노력의 일환으로 두번째 기준인 수익률과 실적 예상치 변화 율의 상관관계를 적용했다.
+이는 그룹별 과거 실적구분 및 순이익 예상치의 방향과 주가수 익률을 함께 봄으로써 계량적 예측 및 통제가 가능하다는 이점이 있다.
+그림 . 그룹별 주가 수익률 vs.
+예상치 변화율 상관관계 자료 Quantiwise IBK투자증권 주 파란 막대는 긍정적 검정 막대는 부정적 접근 권고 Quantitative Solutions 김경훈 위 기준으로 산출된 최종 그룹의 공통점은 상대적으로 높은 수익률과 그룹 생성확률 그리 고 예상치 조정방향이 주가 수익률과 양의 상관관계를 갖고 있다는 점이다.
+다만 SurpriseUPSurprise 그룹의 상관관계가 양수이긴 하지만 낮은 이유는 분 기에 존재하는 과대상향조정 된 예상치 변화율 Outlier에 기인한다제거시 상관관계는 로 상승.
+그림 . 최종 선택 그룹의 컨센서스 변화율과 상대 Riskpremium SurpriseUPSurprise InlineUPSurprise InlineDNShock SurpriseDNShock 상대 Riskpremium좌축 컨센변화율우축 자료 Quantiwise IBK투자증권 아래 차트는 최종 선택 그룹 수익률을 토대로 한 Backtest 결과물이다.
+분기에 포트설정 가정하에 그 룹 의 연간복리 수익률을 기록했다.
+포트 Rebalancing 구간은 분기별 실적구분 시 그널 기준으로 구성종목은 상장폐지 포함 KOSPI 전 종목이다.
+그림 . 최종 선택 그룹의 수익률 추이 P SurpriseUPSurprise InlineUPSurprise InlineDNShock SurpriseDNShock KOSPI 자료 Quantiwise IBK투자증권 김경훈 Quantitative Solutions Pattern 전략 조건을 적용한 업종 스크리닝 Simulation 조건을 토대로 분기 기대되는 업종을 선별했다.
+긍정적으로 접근할 수 있는 그룹에 속하는 업종들이다.
+표 분기 긍정적으로 접근 가능한 업종 업종 시가총액 십억원 실적구분 추정치 변화율 예상치 십억원 ROE PB X PE X KSE 게임소프트웨어 Surprise KSE 제약 Surprise KSE 가구 Surprise KSE 자동차부품 Surprise KSE 비철금속 Surprise KSE 디스플레이패널 Inline KSE 반도체 Inline KSE 백화점 Inline 자료 Quantiwise IBK투자증권 표 분기 부정적 시각 권고 업종 업종 시가총액 십억원 실적구분 추정치 변화율 예상치 십억원 ROE PB X PE X KSE 운송 Surprise KSE 증권 Surprise KSE 보험 Surprise KSE 기계 Surprise KSE 식품음료 Surprise KSE 화장품 Surprise KSE 문구가정용품 Surprise KSE 유틸리티 Inline KSE 은행 Inline KSE 통신서비스 Inline KSE 가정용품 Inline KSE 호텔레저 Inline 자료 Quantiwise IBK투자증권 긍정적으로 접근 가능한 업종으로 제약 디스플레이패널 등이 눈에 띈다.
+반면 부정적인 시각이 권고되는 업종은 그룹보다 자신감을 갖기 더 편한 그룹이다.
+앞서 언급한 것과 같이 Surprise나 Inline을 기록한 업종종목이 이익추정을 하향조정 할 경우 다음분기에 Shock의 확률이 더 높다는 점 때문이다.
+또한 이익추정 상향보다 하향의 폭이 현저히 작 은 것을 감안시 스크린된 업종들의 대 하향조정 폭은 평균치를 크게 하회하는 수치이다.
+그룹 업종으로는 운송 금융 기계 유틸리티 등을 회피할 것을 권고한다.
+Quantitative Solutions 김경훈 종목 스크리닝 Simulation 조건을 토대로 분기 기대되는 종목을 선별했다.
+긍정적으로 접근할 수 있는 그룹에 속하는 종목들이다.
+표 분기 긍정적으로 접근 가능한 종목 코드 종목 섹터 시가총액 실적구분 추정치 변화율 예상치 ROE PE A LF 의류 Surprise A LG생명과학 제약 Surprise A 한섬 의류 Surprise A 흥아해운 운송 Surprise A 뷰웍스 건강관리장비서비스 Surprise A 유한양행 제약 Surprise A 테라세미콘 디스플레이장비 Surprise A 한전KPS 유틸리티 Surprise A 자화전자 전자장비사무용전자제품 Surprise A 휴맥스 전자제품 Surprise A 중앙백신 제약 Surprise A ST모티브 자동차부품 Surprise A 대한유화 화학 Surprise A 엔씨소프트 게임소프트웨어 Surprise A 동양생명 보험 Surprise A SK하이닉스 반도체 Surprise A 롯데쇼핑 백화점 Surprise A 한국금융지주 증권 Surprise A NHN엔터테인먼트 게임소프트웨어 Surprise A 하이록코리아 기계 Surprise A 키움증권 증권 Surprise A 다원시스 전자장비사무용전자제품 Surprise A 한국항공우주 기타자본재 Surprise A BS금융지주 은행 Surprise A 한국타이어월드와이드 자동차부품 Surprise A 한화케미칼 화학 Inline A 농심 식품음료 Inline A 한글과컴퓨터 소프트웨어 Inline A LG디스플레이 디스플레이패널 Inline A 세아베스틸 철강 Inline A 아바텍 디스플레이장비 Inline A 한샘 가구 Inline A 실리콘웍스 디스플레이장비 Inline A SK CC 소프트웨어 Inline A 고려아연 비철금속 Inline A 코웨이 문구가정용품 Inline A 현대위아 자동차부품 Inline A NAVER 소프트웨어 Inline A 삼성전자 반도체 Inline A 휴켐스 화학 Inline A LG유플러스 통신서비스 Inline A 한국타이어 자동차부품 Inline 자료 Quantiwise IBK투자증권 김경훈 Quantitative Solutions 표 분기 부정적 시각 권고 종목 코드 종목 섹터 시가총액 Surprise
+추정치 변화율 예상치 ROE PE A CJ CGV 미디어 Surprise A 미디어플렉스 미디어 Surprise A 현대엘리베이터 기계 Surprise A CJ EM 미디어 Surprise A 녹십자 제약 Surprise A 한화생명 보험 Surprise A 경남은행 은행 Surprise A 롯데푸드 식품음료 Surprise A 삼성생명 보험 Surprise A 우리투자증권 증권 Surprise A 메디톡스 생명과학 Surprise A CJ 식품음료 Surprise A 한진해운 운송 Surprise A 신한지주 은행 Surprise A BGF리테일 백화점 Surprise A 메리츠화재 보험 Surprise A 휠라코리아 의류 Surprise A 동아에스티 제약 Surprise A KTG 담배 Surprise A 삼성중공업 조선 Surprise A LIG손해보험 보험 Inline A 동원FB 식품음료 Inline A 영원무역 의류 Inline A 한국전력 유틸리티 Inline A SK케미칼 화학 Inline A 하나금융지주 은행 Inline A LG이노텍 전자장비사무용전자제품 Inline A 영원무역홀딩스 의류 Inline A 매일유업 식품음료 Inline A DGB금융지주 은행 Inline A 롯데하이마트 기타유통 Inline A 롯데케미칼 화학 Inline A 두산 복합기업 Inline A GS리테일 백화점 Inline A KB금융 은행 Inline A 기업은행 은행 Inline A LS산전 전기장비 Inline A 강원랜드 호텔레저 Inline A 파라다이스 호텔레저 Inline A 하나투어 호텔레저 Inline A LG생활건강 가정용품 Inline A 동부화재 보험 Inline A 아모레퍼시픽 화장품 Inline 자료 Quantiwise IBK투자증권

@@ -1,0 +1,23 @@
+Compliance Notice 당사는 동 자료를 기관투자자 또는 제 자에게 사전 제공한 사실이 없습니다. 
+동 자료에 게시된 내용들은 본인의 의견을 정확하게 반영하고 있으며 외부의 부당한 압력이나 간섭없이 작성되었음을 확인합니다.
+고지사항 본 조사분석자료는 당사의 리서치센터가 신뢰할 수 있는 자료 및 정보로부터 얻은 것이나 당사가 그 정확성이나 완전성을 보장할 수 없고 통지 없이 의견이 변경될 수 있습니다. 
+본 조사분석자료는 유가증권 투자를 위한 정보제공을 목적으로 당사 고객에게 배포되는 참고자료로서 유가증권의 종류 종목 매매의 구분과 방법 등에 관한 의사결정은 전적으로 투자자 자신의 판단과 책임하에 이루어져야 하며 당사는 본 자료의 내용에 의거하여 행해진 일제의 투자행위 결과에 대하여 어떠한 책임도 지지 않으며 법적 분쟁에서 증거로 사용 될 수 없습니다. 
+본 조사 분석자료를 무단으로 인용 복제 전시 배포 전송 편집 번역 출판하는 등의 방법으로 저작권을 침해하는 경우에는 관련법에 의하여 민형사상 책임을 지게 됩니다.
+ KIWOOM ESG Weekly 키움증권 리서치센터 투자전략팀 채권전략ESG Analyst 안예하 Weekly Issue 미국 텍사스 풍력 및 태양열 용량 확대와 함께 에너지 출력제한도 증가 가능성 미 에너지정보청EIA는 텍사스 내 전력시장의 풍력과 태양열 용량이 년까지 두 배 가량 증가할 것으로 예상하는 하며 총 전력 생산량 가운데 신재생 비중이 크게 확대될 것으로 전망함.
+하지만 텍사스 주 내의 송전 시스템의 개선이 없이는 태양열과 풍력 발전의 출력 또한 크게 제한될 것이라는 연구 결과A Case Study of Transmission Limits on Renewables Growth in Texas가 나옴. 
+전력망 운영시 중요한 것은 전력 공급과 수요 간의 꾸준한 균형을 유지하는 것이며 이를 통해 전력 시스템의 안정성을 확보할 수 있음.
+만약 풍력과 태양열 생산량이 전력망 사용 가능 용량보다 늘어날 경우 전력망 운영소에서는 풍력 및 태양열 발전량을 제한시켜 전력망 균형을 맞추려 할 것임. 
+텍사스주 내 가장 큰 전력망 관리처인 the Electric Reliability Council of Texas ERCOT에 따르면 년 중 풍령발전 가능 총량 중 를 제한시킨 바 있다고 함.
+하지만 년까지 ERCOT 의 풍령 발전 제한량은 로 증가할 것으로 예상함.
+EIA 의 분석에서는 ERCOT 의 송전망에 큰 개선이 없을 것으로 가정해 현재의 송전 시스템이 미래 신재생 발전에 미칠 수 있는 영향을 분석하고자 했음. 
+풍력과 태양열 발전은 전력 발전에 있어서 간헐적인 자원으로 풍력은 바람이 불 때 태양열은 태양이 비출 때만 생산이 가능함.
+태양열과 풍력 발전이 늘어날수록 전력 수요가 늘어날수록 제한적인 수준의 송전망으로는 결국 태양열과 풍력 발전을 제한시킬 수밖에 없음.
+이러한 형식의 출력 제한은 에 달할 것으로 예상되며 송전망 개선을 통해서 줄일 수 있을 것으로 기대함. 
+하지만 대부분의 풍력과 태양열 출력 제한은 공급이 수요를 초과하면서 나타날 것으로 분석됨.
+배터리 충전 등 수요가 증가할 경우 출력 제한은 감소할 가능성이 있음. 
+참고 todayinenergydetail.phpid 채권전략ESG Analyst 안예하 일 Kiwoom ESG Weekly Kiwoom ESG Weekly 년 예상 풍력 및 태양열 발전량좌과 출력 제한 비중우 자료 EIA 키움증권 리서치센터 채권전략ESG Analyst 안예하 일 Kiwoom ESG Weekly Kiwoom ESG Weekly 주간 ESG 주요 뉴스 Environment DL 에너지롯데케미칼 재생에너지 사업개발 협력 비즈트리뷴 wZ 냄새나는 폐기물 qO 저축은행저축은행중앙회 쪽방촌 주민 건강한 여름나기 지원 미디어펜 우리은행 다회용컵 다시Re 쓰는 다다익선 캠페인 실시 폴리뉴스 pQ 삼표시멘트 첫 ESG 보고서 발간 매일경제 jdb DB 하이텍 ESG 경영 강화 브릿지경제 E 여수시 친환경 전기버스 xBsgk 삼성전자 QZyWG LG 전자 가전부터 전장까지에너지 위너상 휩쓸었다
+머니투데이 q SK 하이닉스 국산 재생에너지 사용 비율 wLEed Social 재생에너지 개발ESG 확산롯데케미칼DL 에너지 협력 헤럴드경제 vVorT LG 유플러스 장애 가정 학생과 떠났다두드림 U 여름캠프 성료 해럴드경제 OmZqvH LG 전자 집중호우 충청 지역 복구 활동 지원 뉴데일리 pXjcX 농심 경북충북 폭우 피해지역에 라면생수 gA 하이트진로 집중호우 피해지역에 생수 XDZkRQb 카카오 집중호우 피해 복구 성금 위메이드 지속가능보고서 ESG 경영 전략 공개 뉴시스 xdkcgpVS 우리은행 호우 피해복구 지원 우리 WON 클릭 기부함 운영 BIZ WORLD F DGB 금융그룹 네이버 해피빈 더블기부ESG 실천 뉴시스 Psfh 신세계 AI 푸드스캐너로 직원식당 잔반 줄였다
+뉴스핌 FLKxnEQQ Governance 포스코이앤씨 ESG 경영 비전 담은 OTTJf 동반위한국전력거래소 협력사 ESG 지원금리우대 신아일보 CmjDl 신유열 롯데파이낸셜 대표이사 올라롯데 dGvq SK 이노베이션 컴플라이언스부패방지 국제표준인증 취득 뉴시스 NzBVB 도 인정한 삼성전기 ESG 경영qCz SK 텔레콤 준법경영 ISO 인증 획득...ESG 경영 박차 스타뉴스 정상혁 신한은행장 경영 키워드 내부통제디지털상생 DelaSite Z 대구은행장 지목받은 고병일 광주은행장 일회용품 제로 챌린지 해럴드경제 ChR GEkM SK 중간지주 FJzTP 자산시장 및 연기금 관련 우리자산운용 서 거세지는 안티 ESG 움직임고민 깊어지는 국민연금 연합인포맥스 기후위기 심각해지자...
+세계 각국 청정에너지 협력에 분주 ESG 경제 pVXBfI 금융 보험산업 당면 과제는... 소비자 신뢰 회복 중장기 기업가치 제고 해외진출 확대 금융경제 FH ESG 맞아
+차별점 없는 ESG 펀드 자금 유출세 여전 이투데이 qnc 아마존 스코프 wEpU 산업부 노동환경 신통상규범 점검기업 ESG 역량 높여야 연합뉴스 wTkO ESG 기본법 제정 움직임...
+ LIG 넥스원풍산 네덜란드 큰 손 블랙리스트비인도적 무기 판매 뉴데일리경제 GyAYa 채권전략ESG Analyst 안예하 일 Kiwoom ESG Weekly Kiwoom ESG Weekly ESG 주요 차트 선진국 MSCI ESG Leaders 지수 신흥국 MSCI ESG Leaders 지수 자료 Bloomberg 키움증권 리서치센터 자료 Bloomberg 키움증권 리서치센터 글로벌과 이머징 아시아 지수 비교 주요 ESG ETF 가격 자료 Bloomberg 키움증권 리서치센터 자료 Bloomberg 키움증권 리서치센터 주요 ESG ETF 가격 KRX ESG 관련 지수 자료 Bloomberg 키움증권 리서치센터 자료 Bloomberg 키움증권 리서치센터 MSCI ACWI ESG Leaders Index MSCI Europe ESG Leaders Index MSCI USA ESG Leaders Index MSCI EM ASIA ESG Leaders Index MSCI China ESG Leaders Index MSCI Korea ESG Leaders Index MSCI ACWI ESG Leaders Index MSCI EM ASIA ESG Leaders Index ESGV SUSA SPY DSI ESGU SPY KRX ESG Leaders KRX Eco Leaders KOSPI 채권전략ESG Analyst 안예하 일 Kiwoom ESG Weekly Kiwoom ESG Weekly 탄소효율그린뉴딜지수 WISEfn ESG 우수기업 지수 자료 Bloomberg 키움증권 리서치센터 자료 Bloomberg 키움증권 리서치센터 글로벌 채권지수 추이 글로벌 책임투자 그린본드 채권 지수 자료 Bloomberg 키움증권 리서치센터 자료 Bloomberg 키움증권 리서치센터 MSCI Global SRI 국채 및 회사채 지수 MSCI Global ESG 회사채 지수 자료 Bloomberg 키움증권 리서치센터 자료 Bloomberg 키움증권 리서치센터 탄소효율그린뉴딜지수 KOSPI WISEfn WISE ESG 우수기업 KOSPI MSCI Global Green Bond Index Total Return Global Aggregate Index Total Return Global Agg Credit Index Total Return Global Agg Treasuries Index Total Return Bloomberg MSCI Global SRI Bond Index Bloomberg MSCI Global Green Bond Index MSCI GlobalAggregate SRI Bond MSCI Global Treasury ESG Weighted Bond MSCI Global Corporate ESG BB SRI Bond MSCI Global Corporate ESG Index MSCI Global High Yield ESG Index 

@@ -1,0 +1,1 @@
+ KORIBOR ML 주택가격지수L 코스피 지수R YoY YoY 주택가격지수 가계소득 증가율 급여임금근로자 도시 가계소득 가계부채 증가율 주택담보대출 증가율 YoY 한국 기준금리 콜금리 KORIBOR M CD M COFIX 잔존자금금리 COFIX 신규자금조달 금리 동행지수 순환변동치 선행지수 순환변동치 가계부채 증가율R 한국 DSRR YoY 한국은행 제조업 BSI실제 한국은행 제조업 BSI전망 p 주택가격전망CSI 가계수입전망CSI 소비지출전망CSI p 민간소비 소비재 서비스 YoY 소비재 소매판매액 지수 YoY OECD 선행지수L 상품 수출R YoY YoY 대미수출 대중수출 YoY 천 천 취업자L 실업자R 백만명 백만명 고용률L 실업률R 

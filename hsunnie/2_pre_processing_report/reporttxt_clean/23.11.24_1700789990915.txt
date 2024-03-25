@@ -1,0 +1,159 @@
+Hanwha US Treasury 미 국채 발행시장 뜯어보기 채권전략 김성수 펀더멘털 불확실성이 크지 않을 때에는 수급환경을 살펴보는 것이 중요합니다
+전반적인 미 국채 발행 및 입찰 해석 방법과 함께 수급 상황을 점검해보았습니다 
+C o n t e n t s I. 핵심요약................................................................................ II.
+미 국채 발행 시장 ................................................................. III.
+발행시장 수요 환경 점검 ...................................................... Appendix Fixed Income Chart Book ................................. Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 I. 핵심요약 펀더멘털이 잠잠할 때는 수급 환경을 보는 것이 중요 채권시장을 둘러싼 여러 리스크들은 아직도 산적해있다.
+그러나 전쟁이 당장 다른 양상 으로 전개된다거나 물가가 재차 급등하고 경기가 계속 좋아지며 중앙은행이 재차 긴 축을 크게 강화시킬 일은 사실상 없다는 것을 이제는 알고 있다.
+알고 있는 리스크는 돌 발 변수가 아니다.
+이럴 때는 수급 환경을 상세히 뜯어볼 필요가 있다 미 국채 발행 시장 해석 방법 소개 미 국채의 수급 환경은 정부의 재정정책 상황과 국채 발행 기조 발행되는 국채에 대한 시장의 수요와 향후 투자 주체들의 흐름을 통해 파악할 수 있다.
+이 중 발행시장 데이터 는 관련된 상세한 설명이나 정보를 얻기가 어렵다.
+본 자료는 미 국채 발행 데이터에서 눈여겨 보아야 할 데이터들과 해석 방법을 설명하고자 하는 취지에서 작성되었다.
+수급 상황은 긍정적이라고 볼 수 없음
+아울러 주요 수급 환경도 점검해 보았다.
+당분간 미 국채의 공급 수요 환경이 개선되기 는 어려워 보인다.
+공급량은 크게 증가했고 발행 시장 수요가 견조하다고 보기는 힘들 다.
+시장 참가자들의 행보도 크게 엇갈리는 상황이다.
+공급 환경은 앞으로도 비우호적일 것 공급 부분발행이 비우호적이라는 것에는 큰 이견이 없다.
+전반적인 국채 발행량은 크 게 늘어났으며 순발행 기조도 이어질 전망이다.
+장기 구간 발행 규모가 줄어든다고 하 지만 감소한 규모도 이전과 비교하면 방대한 양이다.
+발행 시장 수요는 예전같지 않은 상황 최근 입찰 결과들이 보여주듯 발행 시장 수요도 강력함과는 거리가 멀다.
+대부분 만기 구간 PD를 제외한 경쟁 낙찰자 비중은 이전 입찰 평균을 하회하거나 감소 중이다.
+응찰 률도 년을 제외하면 최근 수치 모두 과거 평균치를 하회한다.
+향후 수요는 투자자별로 크게 엇갈릴 전망 투자 주체별 수요는 부정적으로 볼 수 없지만 좋다고 보기도 힘들다.
+각자의 상황이 크 게 상이하기 때문에 뚜렷한 방향성을 예상하기가 쉽지 않다.
+긍정적이라고 볼 수 없는 것이 현재 수급 상황이다.
+그림 미국 주요 금리 추이 그림 미국 채권시장 변동성 추이 자료 Bloomberg 한화투자증권 리서치센터 주 USD ATM Y Swaption Spread 자료 Bloomberg 한화투자증권 리서치센터 bp 미국 년좌 기준금리우 미국 년우 미국 년우 bp 미국 채권시장 변동성 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 II.
+미 국채 발행 시장 . 국채의 종류와 발행 주기 Bills 년 이하 만기 할인채 미국 국채는 크게 Treasury Bills Notes Bonds TIPSTreasury InflationProtected Securities FRNFloating Rate Note 등 다섯 가지로 구분된다.
+Bills는 만기가 년 이하 인 채권으로 할인채 형식으로 발행된다.
+발행 만기는 개가 있다.
+입찰 주기의 경우 주에 한번 나머지 채권은 매주 한번씩이다.
+Notes 년 만기 이표채 Notes는 만기 개로 구분된 다.
+발행은 매월 번은 추 가 발행Reopening다.
+Bonds 년 만기 이표채 Bonds는 만기 년 두 가지가 있다.
+두 채권 모두 년물과 마찬 가지로 매월 발행되나 번은 추가 발행이다.
+Notes와 Bonds 모두 이 표채 형식 채권이다.
+이자는 개월에 한번씩 지급된다.
+TIPS 물가연동채권 FRN 변동금리부채권 TIPS는 물가연동채권이다.
+만기는 년 세 가지가 있다.
+연 회 발행되며 이 중 번씩 신규 추가발행으로 나뉜다.
+이자 지급 주기는 이표채와 같은 개월이다.
+FRN는 변동금리부채권이다.
+번은 추가 발행 발행 되며 이자 지금 주기는 개월이다.
+Reopening 기존 채권 추가 발행 추가 발행Reopening이란 기존에 발행했던 채권과 이자 만기 등을 동일한 조건에 추 가로 발행하는 것을 의미한다.
+기존 채권과 같은 채권으로 인식되기 때문에 유동성 제 고 절차 간소화에 따른 시간과 비용 절감 효과가 있다.
+미 재무부 입찰 결과에 만기가 년예 Month 로 표시되는 채권들이 추가 발행된 채권이다.
+표 종류별 미 국채 그림 잔존 미 국채 추이 구분 만기 Treasury Bills 주 Treasury Notes 년 Treasury Bonds 년 Treasury Inflation Protected Securities TIPS 년 Treasury Floating Rate Note FRN 년 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 십억달러 Bills Notes Bonds TIPS FRN Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 표 미 국채 발행 주기 구분 입찰 및 발행 시기 이자지급 주기 매매 한도 Treasury Bills 주 입찰 공고Offering 매주 화요일 입찰Auction 매주 목요일 발행Issue 그 다음주 화요일 할인채 만기에 원금 지급 최소 달러 최대 만달러비경쟁 발행 예정 물량의 경쟁 Treasury Bills주 입찰 공고Offering 매주 목요일 입찰Auction 그 다음주 월요일 발행Issue 목요일 Treasury Bill 주 입찰 공고Offering 매주 화요일 입찰Auction 매주 수요일 발행Issue 그 다음주 화요일 Treasury Bill 주 입찰 공고Offering 주에 한번씩 화요일 입찰Auction 그 다음주 화요일 발행Issue 목요일 Cash Management Bills 필요 시 진행하며 공고부터 발행까지 일 이내에 진행 Treasury Note 년 입찰 공고Offering 매월 주로 하반월Second Half 입찰Auction 공고 후 수일 이내주로 일 소요 발행Issue 해당월 말일.
+공휴일일 경우 그 다음 달 첫번째 영업일 개월 Treasury Note 년 입찰 공고Offering 매월 주로 상반월First Half 입찰Auction 공고 후 수일 이내주로 일 소요 발행Issue 해당월 일.
+공휴일일 경우 그 다음 영업일 Treasury Note 년 입찰 공고Offering 매월 주로 하반월Second Half 입찰Auction 공고 후 수일 이내주로 일 소요 발행Issue 해당월 말일.
+공휴일일 경우 그 다음 달 첫번째 영업일 Treasury Note 년 입찰 공고Offering 매월 주로 하반월Second Half 입찰Auction 공고 후 수일 이내주로 일 소요 발행Issue 해당월 말일.
+공휴일일 경우 그 다음 달 첫번째 영업일 Treasury Note 년 입찰 공고Offering 상반월First Half.
+월은 신규 나머지 달월은 추가발행reopening 입찰Auction 해당월 두번째 주 발행Issue 해당월 일.
+공휴일일 경우 그 다음 달 첫번째 영업일 Treasury Bond 년 입찰 공고Offering 상반월First Half.
+월은 신규 나머지 달월은 추가발행reopening 입찰Auction 해당월 마지막 수요일 발행Issue 해당월 말일.
+공휴일일 경우 그 다음 달 첫번째 영업일 Treasury Bond 년 입찰 공고Offering 상반월First Half.
+월은 신규 나머지 달월은 추가발행reopening 입찰Auction 해당월 두번째 주 발행Issue 해당월 일.
+공휴일일 경우 그 다음 달 첫번째 영업일 TIPS 년 입찰 공고Offering 월 중순은 신규 월 중순은 추가발행reopening 입찰Auction 해당월 마지막 목요일 발행Issue 해당월 말일.
+공휴일일 경우 그 다음 달 첫번째 영업일 TIPS 년 입찰 공고Offering 월 중순은 신규 월 중순은 추가발행reopening 입찰Auction 해당월 마지막 목요일 발행Issue 해당월 말일.
+공휴일일 경우 그 다음 달 첫번째 영업일 TIPS 년 입찰 공고Offering 월 중순은 신규 월 중순은 추가발행reopening 입찰Auction 해당월 마지막 목요일 발행Issue 해당월 말일.
+공휴일일 경우 그 다음 달 첫번째 영업일 FRN 년 입찰 공고Offering 주로 하반월Second Half.
+월은 신규 월은 추가발행reopening 입찰Auction 해당월 마지막 주 발행Issue 해당월 말일.
+공휴일일 경우 그 다음 달 첫번째 영업일 개월 자료 US Treasury 한화투자증권 리서치센터 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 표 년 말까지 미 국채 발행 일정 채권 입찰 공고일 입찰일 결제일 비고 주Bill 수요일 월요일 목요일 목 추수감사절 주Bill 수요일 월요일 목요일 목 추수감사절 년Note 수요일 월요일 목요일 년Note 수요일 월요일 목요일 주Bill 수요일 화요일 목요일 년Note 수요일 화요일 목요일 주Bill 화요일 수요일 화요일 주Bill 화요일 목요일 화요일 주Bill 화요일 목요일 화요일 주Bill 목요일 월요일 목요일 주Bill 목요일 월요일 목요일 주Bill 화요일 수요일 화요일 주Bill 화요일 목요일 화요일 주Bill 화요일 목요일 화요일 주Bill 목요일 월요일 목요일 주Bill 목요일 월요일 목요일 년Note 목요일 월요일 금요일 년Note 목요일 월요일 금요일 Reopening 년Bond 목요일 화요일 금요일 Reopening 주Bill 화요일 수요일 화요일 주Bill 화요일 목요일 화요일 주Bill 화요일 목요일 화요일 주Bill 목요일 월요일 목요일 주Bill 목요일 월요일 목요일 년TIPS 목요일 목요일 금요일 Reopening 년Bond 목요일 수요일 화요일 Reopening 주Bill 화요일 수요일 화요일 주Bill 화요일 목요일 화요일 주Bill 화요일 목요일 화요일 주Bill 목요일 화요일 목요일 월 크리스마스 주Bill 목요일 화요일 목요일 월 크리스마스 주Bill 목요일 화요일 목요일 년FRN 목요일 수요일 금요일 Reopening 년Note 목요일 화요일 화요일 년Note 목요일 수요일 화요일 년Note 목요일 목요일 화요일 주Bill 화요일 수요일 화요일 주Bill 화요일 목요일 화요일 주Bill 화요일 목요일 화요일 주 현지시간 기준 재정증권 발행 관련 일자가 휴일일 경우 그 전날 또는 다음날 진행 자료 Treasury Borrowing Advisory Committee 한화투자증권 리서치센터 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 . 국채 발행 계획 국채 발행 계획은 분기마다 발표 만기별 국채 발행 등 구체적인 계획과 일정은 매 분기 말 또는 초미국 정부 회계연도 기준 재무부 차입자문위원회TBAC Treasury Borrowing Advisory Committee가 발표 한다.
+억달러다.
+당분간 단기 국채 위주 발행 예정 년 이상 비중은 감소할 예정이다.
+이는 전반적인 발행량 증가와 시장 심리 위축월 말까지 장기 금리 급등세으로 인한 수급 부담에 기인한다.
+재정증권도 지속 증가 전망 이표채 수급 부담 해소를 위해 재정증권Bills 발행 비중도 크게 증가 중이다.
+TBAC는 대체로 잔존 국채 중 재정증권 비중을 또는 장기 평균약 를 상회해도 무방하다는 입장이다.
+만기별 발행 조정은 수요 여력이 상이하기 때문 시장의 재정증권 소화 여력이 상대적으로 양호하기 때문이다.
+전반적으로 금리가 상승 하면서 단기 국채 금리가 RRP를 상회하게 되었는데 이는 단기자금의 재정증권 시장 유입 유인을 강화시키는 요인이다.
+분기 시장 조달 자금은 약 억달러 분기별분기 같은 일반 분기 재무부의 예상 조달 자금Financing Need과 분 기말 목표 현금 보유량EndofQuarter Cash Balance 시장을 통한 자금 조달 Marketable Borrowing 계획량은 국채 발행 계획 며칠 전 발표된다.
+분기 재무부 예 상 시장 조달 자금은 억달러다.
+그림 장기 금리 상승에 동 구간 발행 비중 조절 그림 잔존 국채 중 Bills 비중 추이 자료 US Treasury 한화투자증권 리서치센터 자료 Bloomberg 한화투자증권 리서치센터 년 미만좌 년 이상우 십억달러 Bills 발행량좌 Bills 발행 비중우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 . 입찰 결과 보는 법 Interest Rate 이자율 국채 입찰이 끝나면 재무부는 결과Treasury Auction Results를 공시한다.
+많은 데이터 들 중 Interest Rate는 해당 채권의 이자Coupon인데 입찰 시작 전 결정된다.
+참고로 이자율은 를 하회할 수 없다.
+High Yield 낙찰 금리 High Yield는 낙찰 금리를 뜻한다.
+미 국채는 가장 낮은 금리가장 높은 가격를 제시한 참여자의 입찰 금액부터 누적 낙찰된다.
+이후 전체 발행 예정 물량이 소화되는 마지막 참여자가 제시한 금리가 낙찰 금리로 결정되는 것이다.
+Alloted at High 낙찰 금리 제시자가 가져가는 비중 Alloted at High또는 Allocation Percentage는 낙찰 금리를 제시한 입찰자가 가져가는 비율낙찰 금액 응찰 금액을 의미한다그림 참고.
+채권 가격Price은 High Yield 가 Interest Rate보다 높을 경우 액면가보다 낮게 결정된다.
+Median Low Yield 하위 제시 금리 Median Yield는 낙찰 누적 물량의 중간 지점 참여자가 제시한 금리그림 기준 중간 지점은 지점 의 참여자가 제시한 금리첫 를 의미한다.
+응찰은 Tendered 낙찰은 Accepted 응찰 금액은Tendered 낙찰 금액은Accepted로 표시된다.
+두 금액은 경쟁 비경쟁 여 부에 따라 Competitive와 Non Competitive로 나뉜다.
+Competitive는 말 그대로 원하는 금리가격와 입찰 금액을 적어내면서 발행 물량을 배정받는 경쟁 입찰 자금이다.
+Competitive는 경쟁 Non Competitive는 비경쟁 입찰 단일 경쟁 입찰 참여자의 최대 낙찰 금액은 전체 발행 예정Offering Amount 금액의 로 제한되어 있다.
+Non Competitive는 정해진 금리에 낙찰받는 비경쟁 물량이다.
+한도는 최대 만달러다.
+Retail 등 비 기관 투자자들이 주로 여기에 포함된다.
+국채 경매는 비경쟁 입찰이 먼저 시작되고 통상 여분 뒤 경쟁 입찰이 진행된다.
+그림 High Yield 및 Alloted at High 결정 과정 참여자 입찰 금리 입찰 금액 누적 금액 A B C D E 자료 한화투자증권 리서치센터 이자율Interest Rate 낙찰 금리High Yield 발행 금액 참여자 D 에 이르러서 누적 응찰 금액이 로 결정 D 는 입찰 금액 를 낙찰 Allotted at HighAllocation Percentage Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 FIMA 외국 중앙은행 또는 국제 금융기관 FIMA는 Foreign and International Monetary Authority의 약자로 외국 중앙은행 국제 금융기관 등을 의미한다.
+월부로 FIMA 고유 계정으로 입찰이 가능해졌다.
+해 외 공공기관들은 비경쟁 입찰로만 직접 참여가 가능하고 개별 낙찰 한도는 월 기준 억달러다.
+경쟁 입찰은 간접Indirect적으로만 가능하다.
+SOMA 뉴욕 연은의 공개시장운영 계정 SOMASystem Open Market Account는 뉴욕 연은의 공개시장운영 계정이다.
+연준의 전반적인 시장 운영 업무는 뉴욕 연은에 일임하고 있다.
+QE QT 목적 외에 연준이 국 채를 사는 이유는 평시 달러 발행은 국채를 사들인 규모만큼만 가능하기 때문이다.
+Indirect 해외 수요자 Competitive Non Competitive FIMA SOMA 중 Competitive는 다시 Indirect Bidder Direct Bidder Primary DealerPD로 구분된다.
+Indirect Bidder간접 입찰자는 해외 수 요자다.
+이들은 뉴욕 연은 또는 PD를 통해 경쟁 입찰에 참여한다.
+Direct Bidder TAAPS 통해 직접 입찰 Direct Bidder직접입찰자는 재무부 국채 입찰 시스템TAAPS Treasury Automated Auction Processing System을 통해 입찰하는 주체들이다.
+대부분이 미국 현지 금융기관 들이지만 입찰 자격에 특별한 제한이 없어 개인 투자자들도 TAAPS를 통해 경쟁 입찰 에 참여할 수 있다TAAPS 계정이 없는 개인은 Treasury Direct를 통해 비경쟁 입찰.
+PD 국채 전문 딜러 PDPrimary Dealer는 국채 전문 딜러다.
+뉴욕 연은이 선정 국채 발행 시장에서 독점적 으로 입찰에 참여한다.
+마지막으로 응찰률BidtoCover Ratio은 SOMA를 제외한 전 체 응찰 금액을 낙찰 금액으로 나눈 값이다.
+그림 미 국채 입찰 참여자 구분 자료 한화투자증권 리서치센터 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 미 국채 입찰 결과 자료 US Treasury 한화투자증권 리서치센터 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 . 입찰 결과 해석 방법 응찰률 경쟁입찰 비중 Tail Spread 등을 통해 입찰 흥행 여부 확인 가능 국채 입찰의 흥행 여부는 PD를 제외한 경쟁 입찰 비중 Tail Spread를 통해 확인할 수 있다.
+네개 지표가 항상 같은 방향성을 가리키는 것은 아니지만 대체로 비슷하다.
+입찰 결과 비교 는 보통 그 직전 번 입찰 평균 수치들을 대상으로 한다.
+응찰률은 높을수록 수요가 강력 응찰률은 재무부가 발행하고자 하는 채권 규모 대비 얼마나 많은 입찰 금액이 들어왔는 지를 보여준다.
+응찰률이 높다는 것은 당연히 그 만큼 수요가 강력하다는 의미다.
+ 년 이후로 만기별 전 구간 이표채 응찰률이 배를 하회한 적은 없다.
+미국이 어느 상 황에서 얼만큼 어떤 조건으로 발행하던간에 일단 수요는 두 배를 넘었다는 것이다.
+PD 비중이 높다는 것은 국채 재고가 쌓인다는 의미 PD는 국채 인수 의무가 있기 때문에 입찰 참여자들의 정확한 수요를 보려면 이들을 제 외한 수치를 확인해야 한다.
+PD를 제외한 나머지 주체들의 입찰 및 낙찰 비중이 클 수 록 해당 경매는 흥행한 것으로 볼 수 있다.
+PD 비중이 높을 수록 국채를 직접 사겠다는 수요가 작다는 것이고 이는 출하된 국채 재고가 늘어난다고도 볼 수 있다.
+해외 수요는 국채 수요를 가장 투명하게 반영 해외 수요인 Indirect Bidder 비중도 같이 참고해볼 필요가 있다.
+자국민들보다 외국인들 이 보는 자국 국채 투자 매력도가 조금 더 상황 변화에 민감하게 반응하기 때문이다.
+PD를 제외한 경쟁 입찰 및 낙찰 비중이 높고 그 중에서도 Indirect Bidder 비중이 높을 때가 진짜 수요가 강하다는 것으로 해석이 가능하다.
+Tail Spread는 시장의 낙찰 금리 예상값 마지막으로 Tail Spread는 낙찰 금리High Yield WIWhen Issued 금리 스프레드 값 이다.
+기관 투자자들은 입찰 전에 미리 그 국채입찰이 예정 또는 진행되는에 대한 거 래가 가능하다결제는 입찰 이후.
+그림 미국 년 경쟁 낙찰률 추이 그림 년 응찰률 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 PD 제외 경쟁낙찰좌 Indirect 경쟁낙찰우 배 BidtoCover Ratio Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 Tail Spread가 작을수록 입찰은 흥행 그러나 입찰이 종료되지 않았기 때문에 호가는 그들이 예상하는 High Yield인 When Issued 금리가 대신한다.
+WI 금리는 해당 경매에 대한 시장의 기대를 반영한다고 볼 수 있다.
+따라서 Tail Spread는 경매 흥행을 Spread는 경매 부진을 의미한다.
+금리에 대한 기대 수준은 High Mid또는 Low Yield 금리에 대한 시장 참여자들의 전반적인 기대 수준이나 예상 레벨은 High Low 또는 High Mid Yield 스프레드를 통해 가늠해볼 수 있다고 생각한다.
+이 스프레드들이 넓 을 수록 금리 흐름에 대한 확실한 컨센서스가 없다고 추정해볼 수 있기 때문이다.
+표 미국 년 국채 입찰 정리 Treasury Bond Years 최근 최근 번 평균 Auction Auction Auction Auction Auction Auction Date Auction Issue Maturity Rate Interest High Yield Allocation Percentage When Issued Closing AverageMedian Low OfferAccept백만달러 Offering Amount Total Accepted Non Competitive Retail Competitive Direct Indirect Primary Dealer SOMA FIMANon Competitive 흥행여부 BidtoCover Ratio배 Total Accepted Ex PD Direct Indirect Tail Spreadbp High Low Spreadbp 주 흥행여부란 숫자 셀의 색깔이 적색에 가까울수록 해당 입찰이 흥행했음을 의미 자료 US Treasury 한화투자증권 리서치센터 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 III.
+발행시장 수요 환경 점검 발행 시장은 연준 운용사 외국인 PD가 절대적 비중 차지 입찰 결과에 나오는 Direct Indirect 등 외에 세부적인 참여별 낙찰 물량은 월간 단위로 발표된다.
+참여자는 연준 은행예금기관 개인 PD 연기금보험 외국인 운용사 Investment Funds 기타 등 개로 구분된다.
+이 중 연준 운용사 외국인 PD가 압도적 인 비중을 차지한다.
+연준 QT로 인해 사실상 자취를 감춤
+최근 네 개의 주체들이 가져가는 발행 국채 물량 추이를 보면 연준은 사실상 자취를 감 추었다.
+보유 채권에 대한 재투자 중단이 한창이기 때문이다.
+Powell 의장을 필두로 한 모든 연준 위원들은 통화정책 기조와 QT는 별개의 문제라고 한다.
+시장 플레이어로서의 역할을 그만두겠다는게 연준 생각 기준금리가 나중에 인하되더라도 QT는 이어질 것이라는게 그들의 설명이다.
+연준의 시 장 Player로서의 역할을 이참에 끝내야 된다는 것이 연준의 생각이기 때문에 발행 시 장에서 예전 같은 연준의 모습 보기 어려울 것이다.
+PD 최근 수요 약화로 낙찰 물량 증가 PD들의 낙찰 물량은 최근 들어 대부분 구간에서 증가세가 가파르다.
+급격한 금리 상승 국채 발행량 증가로 인한 공급 부담이 PD로 하여금 더 많은 채권을 소화하게 만드는 모습이다.
+뚜렷한 시장 강세 재료나 미국 정부의 재정정책 기조 전환이 없다면 이 추세 는 당분간 이어질 것으로 예상한다.
+외국인 환율 금리 변동에 수요 감소 외국인들은 미 국채 금리와 환율 변동에 민감하다.
+대체로 미국 금리가 낮고 달러가 약 세일 때 수요가 강해진다.
+금리는 현재 가파르게 상승했고 높아진 달러 가치는 쉽게 떨 어지지 않는다.
+빠른 시일 내에 외국인 수요가 회복될 가능성은 낮아 보인다.
+그림 투자주체별 국채 낙찰 물량 추이 그림 외국인 낙찰 물량 및 달러 인덱스 추이 주 이표채 기준 운용사는 Investment Funds 자료 Bloomberg 한화투자증권 리서치센터 자료 Bloomberg 한화투자증권 리서치센터 십억달러 연준 PD 운용사 외국인 기타 전체 발행 지수 십억달러 발행시장 외국인 낙찰 물량좌 달러 인덱스역축 우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 운용사 대부분 물량 낙찰 받아가는 중 운용사의 발행 시장 존재감은 년 초부터 빠른 속도로 커졌다.
+이후 년 금리 이상 사이클 진입 초기 수요가 감소하는 듯했으나 재차 증가하는 모습이다.
+연준의 양 적 긴축이 시작되면 수요가 메마를 것이라는 우려가 있었으나 이를 기우로 만든 것이 미국 현지 운용사들이다.
+지금이 기회라고 생각하는 모습 당사 금리 전망년 금리의 가파른 하락 가능성 제한적을 가정할 경우 운용사 수요 는 내년 초까지 이어질 수 있다는 판단이다.
+이들의 수요는 이 정도 레벨 금리는 당분 간 볼 수 없는 수준이라는 인식에 기인한다.
+지금처럼 높은 금리높은 이자 저렴한 가 격에 국채를 살 기회는 흔치 않다는 것이다.
+그림 년 투자주체별 낙찰 물량 추이 그림 년 투자주체별 낙찰 물량 추이 자료 Bloomberg 한화투자증권 리서치센터 자료 Bloomberg 한화투자증권 리서치센터 그림 년 투자주체별 낙찰 물량 추이 그림 년 투자주체별 낙찰 물량 추이 자료 Bloomberg 한화투자증권 리서치센터 자료 Bloomberg 한화투자증권 리서치센터 십억달러 연준 PD 운용사 외국인 십억달러 연준 PD 운용사 외국인 십억달러 연준 PD 운용사 외국인 십억달러 연준 PD 운용사 외국인 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 Appendix.
+Fixed Income Chart Book . 미 국채 공급량 및 투자자별 보유량 추이 그림 미 국채 발행 추이 그림 잔존 미 국채 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 그림 Treasury Bills 발행 추이 그림 잔존 Treasury Bills 및 전체 국채 내 비중 추이 자료 US Treasury 한화투자증권 리서치센터 주 비중은 전체 잔존 국채 내 비중 자료 US Treasury 한화투자증권 리서치센터 십억달러 십억달러 발행우 만기우 순발행좌 십억달러 Bills Notes Bonds TIPS FRN 십억달러 십억달러 발행우 만기우 순발행좌 십억달러 Bills 발행량좌 Bills 발행 비중우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 Treasury Notes 발행 추이 그림 잔존 Treasury Notes 및 비중 추이 자료 US Treasury 한화투자증권 리서치센터 주 비중은 전체 잔존 국채 내 비중 자료 US Treasury 한화투자증권 리서치센터 그림 Treasury Bonds 발행 추이 그림 잔존 Treasury Bonds 및 비중 추이 자료 US Treasury 한화투자증권 리서치센터 주 비중은 전체 잔존 국채 내 비중 자료 US Treasury 한화투자증권 리서치센터 그림 잔존 국채 평균 이자율 추이 그림 잔존 Treasury Bills 평균 및 발행물 이자율 추이 자료 Bloomberg 한화투자증권 리서치센터 자료 Bloomberg 한화투자증권 리서치센터 십억달러 십억달러 발행우 만기우 순발행좌 십억달러 Notes 발행량좌 Notes 비중우 십억달러 십억달러 발행우 만기우 순발행좌 십억달러 Bonds 발행량좌 Bonds 비중우 전체 Bills Notes Bonds Bills 주 주 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 잔존 Treasury Notes 평균 및 발행물 이자율 추이 그림 잔존 Treasury Bonds 평균 및 발행물 이자율 추이 자료 Bloomberg 한화투자증권 리서치센터 자료 Bloomberg 한화투자증권 리서치센터 그림 투자 주체별 미 국채 보유량 추이 그림 주요 외국인 미 국채 보유량 추이 자료 US Treasury 한화투자증권 리서치센터 자료 SIFMA 한화투자증권 리서치센터 Notes 년 년 년 Bonds 년 십억달러 십억달러 개인헤지펀드좌 연준좌 공공연기금좌 MMF좌 외국인좌 전체우 십억달러 십억달러 일본좌 중국좌 영국좌 브라질좌 대만좌 외국인 전체우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 . 만기별 미 국채 입찰 결과 추이 표 미국 년 국채 입찰 결과 Treasury Note Years 최근 과거 번 평균 Auction Auction Auction Auction Auction Auction Date Auction Issue Maturity Rate Interest High Yield Allocation Percentage When Issued Closing AverageMedian Low OfferAccept백만달러 Offering Amount Total Accepted Non Competitive Retail Competitive Direct Indirect Primary Dealer SOMA FIMANon Competitive 흥행여부 BidtoCover Ratio배 Total Accepted Ex PD Direct Indirect Tail Spreadbp High Low Spreadbp 주 흥행여부란 숫자 셀의 색깔이 적색에 가까울수록 해당 입찰이 흥행했음을 의미 자료 US Treasury 한화투자증권 리서치센터 그림 년 경쟁 낙찰 비중 추이 자료 US Treasury 한화투자증권 리서치센터 PD 제외 경쟁낙찰MA 좌 Indirect 경쟁낙찰MA 우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 년 응찰률 추이 그림 년 국채 낙찰 금액 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 그림 년 금리 추이 그림 년 발행 계획 추이 자료 Bloomberg 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 배 BidCover RatioMA 십억달러 연준 은행 개인 PD 연기금보험 운용사 외국인 미국 년 낙찰 금리High Yield 이자Interest Rate 십억달러 발행 계획좌 발행 비중우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 표 미국 년 국채 입찰 결과 Treasury Note Years 최근 과거 번 평균 Auction Auction Auction Auction Auction Auction Date Auction Issue Maturity Rate Interest High Yield Allocation Percentage When Issued Closing AverageMedian Low OfferAccept백만달러 Offering Amount Total Accepted Non Competitive Retail Competitive Direct Indirect Primary Dealer SOMA FIMANon Competitive 흥행여부 BidtoCover Ratio배 Total Accepted Ex PD Direct Indirect Tail Spreadbp High Low Spreadbp 주 흥행여부란 숫자 셀의 색깔이 적색에 가까울수록 해당 입찰이 흥행했음을 의미 자료 US Treasury 한화투자증권 리서치센터 그림 년 경쟁 낙찰 비중 추이 자료 US Treasury 한화투자증권 리서치센터 PD 제외 경쟁낙찰MA 좌 Indirect 경쟁낙찰MA 우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 년 응찰률 추이 그림 년 국채 낙찰 금액 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 그림 년 금리 추이 그림 년 발행 계획 추이 자료 Bloomberg 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 배 BidCover RatioMA 십억달러 연준 은행 개인 PD 연기금보험 운용사 외국인 미국 년 낙찰 금리High Yield 이자Interest Rate 십억달러 발행 계획좌 발행 비중우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 표 미국 년 국채 입찰 결과 Treasury Note Years 최근 과거 번 평균 Auction Auction Auction Auction Auction Auction Date Auction Issue Maturity Rate Interest High Yield Allocation Percentage When Issued Closing AverageMedian Low OfferAccept백만달러 Offering Amount Total Accepted Non Competitive Retail Competitive Direct Indirect Primary Dealer SOMA FIMANon Competitive 흥행여부 BidtoCover Ratio배 Total Accepted Ex PD Direct Indirect Tail Spreadbp High Low Spreadbp 주 흥행여부란 숫자 셀의 색깔이 적색에 가까울수록 해당 입찰이 흥행했음을 의미 자료 US Treasury 한화투자증권 리서치센터 그림 년 경쟁 낙찰 비중 추이 자료 US Treasury 한화투자증권 리서치센터 PD 제외 경쟁낙찰MA 좌 Indirect 경쟁낙찰MA 우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 년 응찰률 추이 그림 년 국채 낙찰 금액 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 그림 년 금리 추이 그림 년 발행 계획 추이 자료 Bloomberg 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 배 BidCover RatioMA 십억달러 연준 은행 개인 PD 연기금보험 운용사 외국인 미국 년 낙찰 금리High Yield 이자Interest Rate 십억달러 발행 계획좌 발행 비중우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 표 미국 년 국채 입찰 결과 Treasury Note Years 최근 과거 번 평균 Auction Auction Auction Auction Auction Auction Date Auction Issue Maturity Rate Interest High Yield Allocation Percentage When Issued Closing AverageMedian Low OfferAccept백만달러 Offering Amount Total Accepted Non Competitive Retail Competitive Direct Indirect Primary Dealer SOMA FIMANon Competitive 흥행여부 BidtoCover Ratio배 Total Accepted Ex PD Direct Indirect Tail Spreadbp High Low Spreadbp 주 흥행여부란 숫자 셀의 색깔이 적색에 가까울수록 해당 입찰이 흥행했음을 의미 자료 US Treasury 한화투자증권 리서치센터 그림 년 경쟁 낙찰 비중 추이 자료 US Treasury 한화투자증권 리서치센터 PD 제외 경쟁낙찰MA 좌 Indirect 경쟁낙찰MA 우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 년 응찰률 추이 그림 년 국채 낙찰 금액 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 그림 년 금리 추이 그림 년 발행 계획 추이 자료 Bloomberg 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 배 BidCover RatioMA 십억달러 연준 은행 개인 PD 연기금보험 운용사 외국인 미국 년 낙찰 금리High Yield 이자Interest Rate 십억달러 발행 계획좌 발행 비중우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 표 미국 년 국채 입찰 결과 Treasury Note Years 최근 과거 번 평균 Auction Auction Auction Auction Auction Auction Date Auction Issue Maturity Rate Interest High Yield Allocation Percentage When Issued Closing AverageMedian Low OfferAccept백만달러 Offering Amount Total Accepted Non Competitive Retail Competitive Direct Indirect Primary Dealer SOMA FIMANon Competitive 흥행여부 BidtoCover Ratio배 Total Accepted Ex PD Direct Indirect Tail Spreadbp High Low Spreadbp 주 흥행여부란 숫자 셀의 색깔이 적색에 가까울수록 해당 입찰이 흥행했음을 의미 자료 US Treasury 한화투자증권 리서치센터 그림 년 경쟁 낙찰 비중 추이 자료 US Treasury 한화투자증권 리서치센터 PD 제외 경쟁낙찰MA 좌 Indirect 경쟁낙찰MA 우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 년 응찰률 추이 그림 년 국채 낙찰 금액 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 그림 년 금리 추이 그림 년 발행 계획 추이 자료 Bloombeg 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 배 BidCover RatioMA 십억달러 연준 은행 개인 PD 연기금보험 운용사 외국인 미국 년 낙찰 금리High Yield 이자Interest Rate 십억달러 발행 계획좌 발행 비중우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 표 년 국채 입찰 결과 Treasury Bond Years 최근 과거 번 평균 Auction Auction Auction Auction Auction Auction Date Auction Issue Maturity Rate Interest High Yield Allocation Percentage When Issued Closing AverageMedian Low OfferAccept백만달러 Offering Amount Total Accepted Non Competitive Retail Competitive Direct Indirect Primary Dealer SOMA FIMANon Competitive 흥행여부 BidtoCover Ratio배 Total Accepted Ex PD Direct Indirect Tail Spreadbp High Low Spreadbp 주 흥행여부란 숫자 셀의 색깔이 적색에 가까울수록 해당 입찰이 흥행했음을 의미 자료 US Treasury 한화투자증권 리서치센터 그림 년 경쟁 낙찰 비중 추이 자료 US Treasury 한화투자증권 리서치센터 PD 제외 경쟁낙찰MA 좌 Indirect 경쟁낙찰MA 우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 년 응찰률 추이 그림 년 국채 낙찰 금액 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 그림 년 금리 추이 그림 년 발행 계획 추이 자료 Bloomberg 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 배 BidCover RatioMA 십억달러 연준 은행 개인 PD 연기금보험 운용사 외국인 미국 년 낙찰 금리High Yield 이자Interest Rate 십억달러 발행 계획좌 발행 비중우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 표 년 국채 입찰 결과 Treasury Bond Years 최근 과거 번 평균 Auction Auction Auction Auction Auction Auction Date Auction Issue Maturity Rate Interest High Yield Allocation Percentage When Issued Closing AverageMedian Low OfferAccept백만달러 Offering Amount Total Accepted Non Competitive Retail Competitive Direct Indirect Primary Dealer SOMA FIMANon Competitive 흥행여부 BidtoCover Ratio배 Total Accepted Ex PD Direct Indirect Tail Spreadbp High Low Spreadbp 주 흥행여부란 숫자 셀의 색깔이 적색에 가까울수록 해당 입찰이 흥행했음을 의미 자료 US Treasury 한화투자증권 리서치센터 그림 년 경쟁 낙찰 비중 추이 자료 US Treasury 한화투자증권 리서치센터 PD 제외 경쟁낙찰MA 좌 Indirect 경쟁낙찰MA 우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 년 응찰률 추이 그림 년 국채 낙찰 금액 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 그림 년 금리 추이 그림 년 발행 계획 추이 자료 Bloomberg 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 배 BidCover RatioMA 십억달러 연준 은행 개인 PD 연기금보험 운용사 외국인 미국 년 낙찰 금리High Yield 이자Interest Rate 십억달러 발행 계획좌 발행 비중우 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 . 투자 주체들의 만기별 국채 낙찰 물량 추이 그림 투자 주체별 전체 국채 낙찰 물량 추이 그림 연준 국채 낙찰 물량 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 그림 은행 국채 낙찰 물량 추이 그림 개인 국채 낙찰 물량 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 그림 PD 전체 국채 낙찰 물량 추이 그림 연기금 및 보험 국채 낙찰 물량 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 십억달러 연준 은행 개인 PD 연기금보험 운용사 외국인 십억달러 년 년 년 년 년 년 년 십억달러 년 년 년 년 년 년 년 십억달러 년 년 년 년 년 년 년 십억달러 년 년 년 년 년 년 년 십억달러 년 년 년 년 년 년 년 Hanwha US Treasury 미 국채 발행시장 뜯어보기 한화리서치 그림 운용사 국채 낙찰 물량 추이 그림 기타 참여자 국채 낙찰 물량 추이 자료 US Treasury 한화투자증권 리서치센터 자료 US Treasury 한화투자증권 리서치센터 Compliance Notice 이 자료는 투자자의 증권투자를 돕기 위해 당사 고객에 한하여 배포되는 자료로서 저작권이 당사에 있으며 불법 복제 및 배포를 금합니다.
+이 자료에 수록된 내용은 당사 리서치센터 가 신뢰할 만한 자료나 정보출처로부터 얻은 것이지만 당사는 그 정확성이나 완전성을 보장할 수 없습니다.
+따라서 이 자료는 어떠한 경우에도 고객의 증권투자 결과와 관련된 법적 책임소재에 대한 증빙으로 사용될 수 없습니다.
+ MSCI The MSCI sourced information is the exclusive property of MSCI Inc.
+MSCI.
+Without prior written permission of MSCI this information and any other MSCI intellectual property may not be reproduced redisseminated or used to create any financial products including any indices.
+This information is provided on an as is basis.
+The user assumes the entire risk of any use made of this information.
+MSCI its affiliates and any third party involved in or related to computing or compiling the information hereby expressly disclaim all warranties of originality accuracy completeness merchantability or fitness for a particular purpose with respect to any of this information.
+Without limiting any of the foregoing in no event shall MSCI any of its affiliates or any third party involved in or related to computing or compiling the information have any liability for any damages of any kind.
+MSCI and the MSCI indexes are services marks of MSCI and its affiliates.
+ GICS The Global Industry Classification Standard GICS was developed by and is the exclusive property of MSCI Inc.
+and Standard Poors. GICS is a service mark of MSCI and SP and has been licensed for use by Licensee.
+ 십억달러 년 년 년 년 년 년 년 십억달러 년 년 년 년 년 년 년

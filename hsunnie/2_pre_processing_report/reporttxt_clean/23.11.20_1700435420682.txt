@@ -1,0 +1,53 @@
+ 채권 김명실 하이투자증권 투자전략부 CONTENTS . 침체를 알려주는 신호 Sahm Rule . 고용의 추세 하락은 경제의 불황방정식 Nonfarm Change . 고용이 아직도 뜨거운가
+ Claims Unemployment . 임시근로자 감소 높은 실업률의 전조 Temporary Help Services . 불황의 신호들 마이너스 성장 경로로 ETI LEI . 수익률곡선 역전에 대한 흐린 눈 Inverted Yield Curve Change . 공급망의 정상화 물가상승률 완화의 신호인가 침체의 신호인가 Supply Chain . 투자 긴축 Fixed Investment . 신용긴축에 빠르게 반응하는 주택건설지표 New PrivatelyOwned Housing . 은행은 돈을 빌려줄 의지가 적다
+ Bank Lending Practices for Consumer Loans . 신용카드가 보내는 불황신호 Revolving Rate . 신용카드가 보내는 불황신호 Delinquency Rate . 불황의 신호들 Recession Signals Recession Signals 불황의 신호들 Recession Signals 불황의 신호들 Summary 비정상적인 시장으로 인해 연착륙과 경기 침체 논쟁이 복잡해진다 샴 법칙Sahm Rule에 따르면 최근 실업률 p 상승하면 경기 침체에 진입한 것으로 간주한다.
+해 당 법칙은 실업률이 상승하기 시작할 때 나타나는 자기강화적 역학selfreinforcing dynamics을 강조하는 것으로 실업률 증가는 기업들이 긴축 경영에 들 어간다는 신호로 해석한다.
+일자리를 구하기가 어려워짐에 따라 가계는 지갑을 열기가 조심스럽고 이로 인해 기업들은 더 긴축 경영에 들어가고 해고를 단행 하며 결과적으로 가계는 허리띠를 더 졸라매게 된다.
+시간을 두고 반영되는 이 과정은 일반적으로 연준의 긴축 정책으로 시작이 되는데 년 이후 경기침 체 예측에 단 한번도 오류가 없었던 샴 법칙이 최근 고개를 들기 시작했다는 점은 매우 유의미한 재료라고 볼 수 있다. 
+그럼에도 시장은 아직 연착륙 가능성에 힘을 싣고 있다.
+내년 기업 실적이 반등할 것이라는 예상과 함께 금리 선물 시장은 중앙은행이 통화 정책 완화 기조로 전환하리란 전망을 반영하고 있다.
+연초 침체를 강하게 예상했던 채권시장은 년 연말을 향하는 시점에서 되돌아보면 결과적으로는 실패의 성적표를 받았 을 것으로 추정된다.
+변명을 해보자면 팬데믹 기간 동안 재화 수요는 증가했고 리오프닝 기간 동안 서비스 소비가 반등했다.
+팬데믹 기간 지급된 정부 지원금 으로 인해 봉쇄 정책이 해제된 시점에 가계 저축은 기록적인 수준까지 치솟았으며 기업은 리오프닝 직후 순익이 급증하는 동안 막대한 현금을 비축하여 완충 장치를 마련했다.
+팬데믹으로 인한 복잡성으로 인해 정확한 예측이 쉽지 않았음을 의미한다.
+그렇기 때문에 연준의 금리 인상으로 인한 충격이 경제에 반영되 기까지 그 시차가 평소보다 오래 걸릴 수밖에 없었을 것이고 경기 둔화 혹은 침체의 시기는 적어도 올해는 아니었다는 결론이다.
+또한 년에 경기 침체가 오더라도 경기는 당분간 연착륙 궤도에 오르는 것처럼 보일 수 있다.
+시점이 늦춰졌을 뿐 침체의 징후 자체를 피하기는 쉽지 않을 것 같다 그렇다고 해서 이번은 다르다
+시점이 늦춰졌을 뿐 침체의 징후 자체를 피하기는 쉽지 않을 것 같다.
+앞서 언급한 샴 법칙을 시작으로 미국의 핵심지표들이 빠 른 속도로 추세를 하회 하고 있다.
+잠시나마 흐린눈으로 지켜봤던 채권시장의 수익률 곡선 역전 현상도 재고할 필요가 있다.
+잠깐의 역전폭 회복이 긍정적 신호 가 아님을 명심해야 한다.
+과거 수익률 곡선 역전은 곧 경기침체의 명백한 신호였고 과거 역전폭 개월 내 경기침체가 도래했다는 사실을 기억하자.
+통화량의 공급 감소와 기업의 투자 위축 가계의 연체율 급등까지 전통적으로 침체와 관련 있었던 재료들을 다시 한번 체크할 필요가 있다. 
+년 미국은 경기 침체에 빠질까
+양치기 소년의 마음가짐으로 침체를 예단할 수 없지만 침체와 관련된 징후들은 증가할 것으로 예상한다.
+당사는 연간전 망 변하는 것과 변하지 않는 것 자료를 통해 수급요인과 기간프리미엄에 주목하며 내년 금리 하락 변곡점 시기가 지연될 수 있음을 언급한 바 있 다.
+다만 그렇다고 해서 년 중 금리가 하락하지 않음을 뜻하는 건 전혀 아니다.
+오히려 불황의 신호와 관련된 징후가 내년 상반기 확산된다면 금리 하락 폭 은 얼마든지 더 커질 수 있음을 의미한다.
+경기 침체 여부 논쟁이 내년 어떻게 전개되든 간에 시장 펀더멘털을 둘러싼 불확실성은 매우 높음을 명심해야 하는 시기다.
+Recession Signals 불황의 신호들 Recession SAHM p Sahm Rule.
+포인트 높으면 경제가 침체로 접어들었다고 판단 Sahm Rule이 재주목 되는 이유 bp 상승.
+개월 평균은 최저치보다 bp만 남은 상황 채권시장 물가 다음은 고용 지표에 주목해야 할 시기 Recession Signals 불황의 신호들 . 침체를 알려주는 신호 Sahm Rule 그림 Sahm Rule Recession Indicator 자료 FRED 하이투자증권 리서치본부 년 이후 샴 룰이 발효되는 순간 침체에 빠지지 않은 적은 없었다 고용보고서는 여전히 강세를 유지하고 있지만 데이터의 추세는 월간 수치보다 훨씬 더 중요 추세 이하로의 하락에 임박한 고용지표를 주목 Recession Signals 불황의 신호들 . 고용의 추세 하락은 경제의 불황방정식 Nonfarm Change 그림 비농업고용 변화 및 트렌드 추이 자료 Bloomberg CEIC 하이투자증권 리서치본부 Recession MA Employment Change 선형 MA Employment Change 천명 비농업고용 추세이하 진입은 경기침체 신호로 작용했다 Recession Claims Insured Unemployment YoY 시장은 실업률이 에 불과해 고용 시장이 여전히 뜨겁다고 인식 기업 및 개인 설문조사를 기반으로 한 월별 BLS 고용보고서와 달리 청구 데이터는 실업자가 주정부에 제출한 실제 신고를 기반으로 해 데이터의 신뢰도가 매우 높은 축에 속함
+ 신규실업수당청구건수 증가.
+불황 혹은 침체가 아닌 기간에는 일반적이지 않은 데이터 Recession Signals 불황의 신호들 . 고용이 아직도 뜨거운가
+ Claims Unemployment 그림 신규실업수당청구건수 증가율 자료 Bloomberg CEIC 하이투자증권 리서치본부 신규실업수당청구건수가 가까이 증가했다는 데이터는 고용시장에서 일자리를 찾는 것이 더 어려워짐을 뜻한다 임시고용 재정적으로 해고 비용이 가장 저렴하고 일반적으로는 경제적으로 가장 민감한 부문에서 근로하는 경향 임시고용은 일반적으로 경기 침체 이전에 최고조에 달하고 경기 침체 중에는 감소 임시근로자 수는 월부터 감소세로 전환.
+과거 성장주기에 임시근로자가 감소한 사례는 없었음.
+향후 높은 실업률의 전조가 될 가 능성이 높음
+Recession Signals 불황의 신호들 . 임시근로자 감소 높은 실업률의 전조 Temporary Help Services 그림 임시근로자 및 실업률 추이 자료 Bloomberg CEIC 하이투자증권 리서치본부 Recession All Employees Temporary Help Services 천명 Recession Unemployment Rate 고용동향과 선행지수의 추세적 하락은 미국의 마이너스 GDP 성장을 시사 Recession Signals 불황의 신호들 . 불황의 신호들 마이너스 성장 경로로 ETI LEI 그림 미국 고용동향지수 경기선행지수 및 실질GDP 성장률 추이 자료 Bloomberg CEIC 하이투자증권 리서치본부 Recession Real GDP ETI INDX Index YoY Recession Real GDP US LEIq lag YoY 첫역전시기 역전폭 최대 역전폭 역전폭 회복시기 당시 역전폭 플러스 회복시기 당시 금리차 경기침체 시기 당시 역전폭 침체까지소요기간개월 역전 이후 역전폭 회복 플러스 전환 역전폭 회복이 긍정적 신호가 아님을 명심.
+과거 수익률 곡선 역전은 곧 경기침체의 명백한 신호였음
+ 과거 역전폭 개월 내 경기침체가 도래했다는 사실에 주목 Recession Signals 불황의 신호들 . 수익률곡선 역전에 대한 흐린 눈 Inverted Yield Curve 그림년 금리차 추이 자료 FRED 하이투자증권 리서치본부 역전폭 월 향후 개월 뒤 침체
+ Recession TY 미국의 통화 공급량 이제는 역사적인 속도로 감소 중 Recession Signals 불황의 신호들 Change 그림 통화공급 증가율 자료 FRED 하이투자증권 리서치본부 Recession 명목M주 변화 Annualized Median Median Recession 실질M YoY 팬데믹 시대 통화공급의 급속한 증가 최악의 인플레이션 통화공급의 급격한 감소 지출감소 경제 둔화혹은 침체 Recession Signals 불황의 신호들 . 공급망의 정상화 물가상승률 완화의 신호인가 침체의 신호인가 Supply Chain 그림 카스화물운임지수 하펙스지수 발틱운임지수 자료 Bloomberg Refinitiv 하이투자증권 리서치본부 Recession HARPEX Shipping Index 선형 HARPEX Shipping Index pt Recession BDI 선형 BDI pt 운송비장기추세공급망압력 완화 운송비장기추세 공급망압력 강화 컨테이너 선박 용선료 추적 원자재 운송비 추적 내구재 물가상승률 완화 장기추세 하회 폭이 커진다면
+화물운임 추적 Recession Cass Freight Index YoY 실질 기업투자가 장기간 위축되는 것은 경기 침체와 밀접한 연관 기업들이 새로운 장비와 건물에 대한 투자를 긴축하는 것은 향후 경기 침체의 징후가 될 수 있음
+Recession Signals 불황의 신호들 . 투자 긴축 Fixed Investment 그림 실질 기업투자 증가율 추이 자료 FRED 하이투자증권 리서치본부 Recession Real Gross Private Domestic Investment Fixed Investment YoY 실질금리 상승으로 기업의 투자 비용 증대.
+마이너스 전환 시 침체 징후가 될 수 있음
+ 주택 건설은 신용 긴축에 빠르게 반응하며 일반적으로 비즈니스 활동이 정점에 도달하기 훨씬 전에 후퇴 주택 건설은 재정적으로 매우 높은 부담을 갖고 있기 때문에 금융 비용에 극도로 민감 Recession Signals 불황의 신호들 . 신용긴축에 빠르게 반응하는 주택건설지표 New PrivatelyOwned Housing 그림 신규 주택건설 자료 Bloomberg CEIC 하이투자증권 리서치본부 Recession New PrivatelyOwned Housing Units Started 천호 금융비용에 민감한 주택 건설은 비즈니스 활동 정점 전 후퇴하는 경향 Recession Signals 불황의 신호들 . 은행은 돈을 빌려줄 의지가 적다
+ Bank Lending Practices for Consumer Loans 그림 은행 대출 강도 자료 Bloomberg CEIC 하이투자증권 리서치본부 recession Credit Cards Auto Other recession Credit Cards Auto Other Tightening Easing Stronger Demand For Consumer Loans Weaker Demand For Consumer Loans Banks More Willing to Make Loans Banks Less Willing to Make Loans recession Net percentage of domestic banks reporting increased willingness to make consumer installment loans 과거 저축의 급격한 감소와 신용카드 빚의 증가는 미국 경제의 소비 급증을 뒷받침 현재 높은 신용카드 부채와 높은 신용카드 이자의 결합.
+경제에는 여전히 많은 현금의 여유가 있지만 많은 소비자들이 신용을 소진하고 있으며 소득 증가율은 급격히 둔화 중 Recession Signals 불황의 신호들 . 신용카드가 보내는 불황신호 Revolving Rate 그림 신용카드 리볼빙 잔액 및 금리 추이 자료 FRED 하이투자증권 리서치본부 Recession Revolving Consumer Credit Owned and Securitized 십억달러 Recession Commercial Bank Interest Rate on Credit Card Plans 기록적으로 높은 신용카드 부채 기록적으로 높은 신용카드 이자 위권 밖 중소은행의 신용카드 연체율은 사상 최고치를 기록 신용카드 연체 급증은 역사적으로 경기 침체와 관련 미국 은행 안정성과 부채 수준 증가에 대한 시장의 우려는 커질 것 Recession Signals 불황의 신호들 . 신용카드가 보내는 불황신호 Delinquency Rate 그림 상업은행 전체 및 중소은행 신용카드 연체율 추이 자료 FRED 하이투자증권 리서치본부 Recesscion 중소은행 신용카드 연체율 모든 상업은행 신용카드 연체율 Median 가까운 어느 시점에 미국 은행들에게 막대한 손실로 이어질 수 있는 상황 년 미국은 경기 침체에 빠질까
+ 침체를 예단할 수 없지만 침체와 관련된 징후들은 증가할 것으로 예상.
+물가 다음은 고용 그리고 금융안정으로 전이 연간전망 변하는 것과 변하지 않는 것 자료를 통해 수급요인과 기간프리미엄에 주목하면서 내년 금리 하락의 변곡점 시기 가 지연될 수 있음을 언급한 바 있음.
+다만 해당 자료를 통해 언급한 불황의 신호와 관련된 징후가 내년 상반기 확산될 경우 채권시장은 투자의 기회가 될 것으로 판단 Recession Signals 불황의 신호들 . 불황의 신호들 Recession Signals 그림년 경기 둔화는 불가피 관건은 둔화의 폭 자료 FRB The Conference Board visualcapitalist 하이투자증권 리서치본부 내년 경기.
+연준 제외 여전히 많은 투자자들이 신중한 태도를 보여줌
+불황의 신호로 추세와의 간극이 커질 경우도 대비할 필요 Compliance Notice 당 보고서는 기관투자가 및 제 자에게 Email등을 통하여 사전에 배포된 사실이 없습니다.
+ 당 보고서에 게재된 내용들은 본인의 의견을 정확하게 반영하고 있으며 외부의 부당한 압력이나 간섭 없이 작성되었음을 확인합니다. 작성자 김명실
+본 분석자료는 투자자의 증권투자를 돕기 위한 참고자료이며 따라서 본 자료에 의한 투자자의 투자결과에 대해 어떠한 목적의 증빙자료로도 사용될 수 없으며 어떠한 경우에도 작성자 및 당사의 허가 없이 전재 복사 또는 대여될 수 없습니다.
+무단전재 등으로 인한 분쟁발생시 법적 책임이 있음을 주지하시기 바랍니다.
