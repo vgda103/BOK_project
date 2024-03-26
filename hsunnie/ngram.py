@@ -23,7 +23,6 @@ def txt_to_json():
 
     return print("JSON 파일로 변환 및 저장 완료")
 
-# ngram 추가하여 json 파일로 저장
 def ngram():
     json_folder = './reportjson/'
     file_lists = os.listdir(json_folder)
@@ -38,13 +37,15 @@ def ngram():
             value_lists = data[filename[:-5]] # 파일명을 키로 사용하여 문장들을 담은 리스트 가져오기
             
             for i in range(1, 6): # ngram 만들기
-                gram_set = set()  # Create a set to store unique n-grams
+                gram_list = []
                 for lists in value_lists:
-                    grams = [tuple(lists[x:x+i]) for x in range(0, len(lists)-i+1)]  # Convert lists to tuples
-                    gram_set.update(grams)  # Update the set with n-grams
-                # Convert the set back to a list
-                gram_list = list(gram_set)
-                data[f'{i}gram'] = gram_list
+                    grams = []
+                    for x in range(0, len(lists)-i+1):
+                        if lists[x:x+i] not in grams:
+                            grams.append(lists[x:x+i])
+                    # grams = [lists[x:x+i] for x in range(0, len(lists)-i+1)]
+                    gram_list.append(grams)
+                    data[f'{i}gram'] = gram_list
             
             with open(os.path.join(n_gram_json, f'{filename[:-5]}_ngram.json'), 'w', encoding='utf-8') as j: # Specify encoding explicitly
                 json.dump(data, j, ensure_ascii=False, indent=4)
