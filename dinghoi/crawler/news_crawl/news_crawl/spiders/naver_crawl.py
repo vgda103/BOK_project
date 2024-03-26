@@ -8,7 +8,7 @@ import json
 # import time
 # import urllib
 
-class EinfoMaxSpider(scrapy.Spider):
+class NaverSpider(scrapy.Spider):
     name = "naver"
 
     def start_requests(self):
@@ -27,7 +27,6 @@ class EinfoMaxSpider(scrapy.Spider):
 
         nso_sdate = s_date.replace('-', '')
         nso_edate = e_date.replace('-', '')
-
         
         day = 30 # 검색 루프 날짜 단위
 
@@ -54,7 +53,7 @@ class EinfoMaxSpider(scrapy.Spider):
                 end = edates.strftime('%Y-%m-%d').replace('-', '.')    
                 nso_edate = edates.strftime('%Y-%m-%d').replace('-', '.')   
 
-                for i in range(1, 100, 10):
+                for i in range(1, 500, 10):
                     if i == 1:
                         nso_sdate = s_date.replace('.', '')
                         nso_edate = e_date.replace('.', '')
@@ -116,11 +115,7 @@ class EinfoMaxSpider(scrapy.Spider):
         data = json.loads(response.text)
         news_cnt = len(data['contents'])
 
-        # print('1:', response.url)
         # print('next1', data['nextUrl'])
-
-        # print(data['contents'])
-        # print(news_cnt)
 
         if news_cnt > 0:
             for i in range(1, news_cnt+1):
