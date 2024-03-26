@@ -1,2 +1,0 @@
- MSCI EM 통화지수L 달러 인덱스R p p 달러헤알 환율L 브라질 CDS 프리미엄R USDBRL bp 브라질 외환보유액 십억달러 인도네시아 국채 외국인 보유비중L 달러
-루피아역축R USDIDR 달러루블L 러시아 CDSR USDRUB bp 년 GDP 성장률 컨센서스 년 GDP 성장률 컨센서스 USDBRL USDCLP USDCOP USDMXN 멕시코 러시아 인도네시아 인도 브라질 현재 기준금리 기준금리 컨센서스 기준금리 컨센서스 멕시코 러시아 인도네시아 브라질 인도 실질 기준금리 현재 기준금리 금융위기 이후 최저 기준금리 
