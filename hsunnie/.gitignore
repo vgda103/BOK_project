@@ -1,3 +1,4 @@
 reportpdf/
 reporttxt/
 requirements.txt
+*.ipynb
