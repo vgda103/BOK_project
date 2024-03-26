@@ -23,7 +23,7 @@ def crawl_info():
                     title_tag = td_tags[0].select_one('a')
                     pdf_tags = table_tag.select('td.file > a')
                     date_tags = table_tag.select('td.date')
-                    broker_name = td_tags[1].text.strip()  # 증권사 이름 가져오기
+                    broker_name = td_tags[1].text.strip()
                     if pdf_tags and date_tags:
                         pdf = pdf_tags[0].attrs['href']
                         date = date_tags[0].text
@@ -40,7 +40,6 @@ def crawl_info():
         last_button = soup.select_one('td.pgRR > a')
         if not last_button:
             break
-        
         page += 1  # 다음 페이지로 이동
 
     # 데이터프레임으로 변환
@@ -53,15 +52,11 @@ def crawl_info():
 
 # pdf download
 def pdf_downloader(csv_file_name):
+    df = pd.read_csv(csv_file_name, sep='\t') # CSV 파일을 데이터프레임으로 변환
+    total_info = [tuple(row) for row in df.values] # 데이터프레임을 리스트 안의 튜플 데이터 형태로 변환
 
-    # CSV 파일을 불러와서 데이터프레임으로 변환
-    df = pd.read_csv(csv_file_name, sep='\t')
-
-    # 데이터프레임을 리스트 안의 튜플 데이터 형태로 변환
-    total_info = [tuple(row) for row in df.values]
-
-    dir = './reportpdf/'
-    if not os.path.exists(dir):
+    dir = './reportpdf/' # pdf 파일 저장할 경로 설정
+    if not os.path.exists(dir): # 폴더 없는 경우에 생성하는 코드
         os.makedirs(dir)
 
     for i in range(len(total_info)):
@@ -79,5 +74,5 @@ def pdf_downloader(csv_file_name):
         if i!=0 and i%100==0:
             print(f'pdf 다운로드 진행률 : {i}/{len(total_info)}') # 100개 다운로드마다 알림
 
-# 함수 실행
+# 함수 실행 (크롤링 & csv 파일 저장 -> pdf 저장)
 pdf_downloader(crawl_info())

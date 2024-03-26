@@ -1,4 +1,6 @@
 reportpdf/
 reporttxt/
 reporttxt_clean/
+ngram/
+reportjson/
 *.ipynb
