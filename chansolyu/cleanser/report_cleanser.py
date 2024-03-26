@@ -1,3 +1,5 @@
+# 진짜최종최종최종
+
 import os
 import fitz
 import pandas as pd
@@ -76,6 +78,10 @@ def broker_filter(text, broker_name):
     elif broker_name == '현대차증권':
         pattern = '(Compliance Note).*?(사용될 수 없습니다.)'
         text = re.sub(pattern,'',string=text)
+        pattern = '(본 조사자료는).*?(사용될 수 없습니다)'
+        text = re.sub(pattern,'',string=text)
+        pattern = '(본 조사지표는).*?(사용될 수 없습니다)'
+        text = re.sub(pattern,'',string=text)
     elif broker_name == '대신증권':
         pattern = '(금융투자업규정).*?(Compliance Notice)'
         text = re.sub(pattern,'',string=text)
@@ -95,7 +101,7 @@ def broker_filter(text, broker_name):
     
 
 df = pd.read_csv("pdf_link_crawl_add_txt.csv", sep='\t')
-contents_list = []
+# contents_list = []
 
 pdf_dir = './reportpdf/'
 txt_dir = './reporttxt/'
@@ -111,7 +117,7 @@ for i in df['file_name']:
     broker = df[df['file_name'] == i]['broker_name'].to_string(index=False)
 
     if broker == '미래에셋증권':
-            contents_list.append(None)
+        pass
     else:
         # 파일이 이미 존재하는 경우에는 생성하지 않음
         if not os.path.exists(txt_name):
@@ -149,7 +155,3 @@ for i in df['file_name']:
 
         with open(txt_name, 'w' , encoding='utf-8') as f:
             f.write(cleansed_txt)
-        
-        contents_list.append(cleansed_txt)
-
-df['contents_list'] = contents_list

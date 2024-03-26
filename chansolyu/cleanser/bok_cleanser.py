@@ -33,6 +33,8 @@ def is_meaningful(sentence):
 def filter_contents(text):
     pattern = r'^.*?다음과 같은 토의가 있었음.'
     text = re.sub(pattern, '' , string=text)
+    pattern = r'^.*?위원 토의내용'
+    text = re.sub(pattern, '' , string=text)
     return text
     
 
