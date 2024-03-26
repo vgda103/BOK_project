@@ -13,14 +13,14 @@ class EinfoMaxSpider(scrapy.Spider):
 
     def start_requests(self):
         press_list = ['1009', '1014', '1015'] # 언론사(매일경제:1009, 파이낸셜뉴스:1014, 한국경제:1015)
-        # s_date = input('start date(ex:2021-01-01): ') # 검색 시작 일자
-        # e_date = input('end date(ex:2024-03-24): ') # 검색 종료 일자
+        s_date = input('start date(ex:2021-01-01): ') # 검색 시작 일자
+        e_date = input('end date(ex:2024-03-24): ') # 검색 종료 일자
 
         # e_page = input('end page(ex:1 or 11 or 21 ...): ') # 검색 페이징 번호
 
         # press_list = ['1015']
-        s_date = '2024-03-24'
-        e_date = '2024-03-26'
+        # s_date = '2024-03-24'
+        # e_date = '2024-03-26'
 
         start = s_date.replace('-', '.')
         end = e_date.replace('-', '.')
