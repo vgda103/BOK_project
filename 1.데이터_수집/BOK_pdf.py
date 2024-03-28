@@ -236,3 +236,7 @@ class BOK_pdf( Crawling, Red_pdf ):
             num += 1
             print( f'{ num } / { len( file_list ) } 진행중' )
         pass # to_txtfile 끝
+
+Bok = BOK_pdf()
+Bok.Get_pdf( './Bok_pdf/', 1, 20 ) # 경로, 시작페이지, 마지마막페이지
+Bok.to_txtfile( './Bok_pdf/' )
