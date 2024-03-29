@@ -4,6 +4,7 @@ from ast import literal_eval
 import re
 from datetime import datetime
 import numpy as np
+from tqdm import tqdm
 
 dictionary = pd.read_csv('./ngram_counts_more_than_15.csv')
 
@@ -40,7 +41,7 @@ print('datas are ready')
 
 # 한 문서에 대하여 긍정/부정 라벨링
 
-for idx, row in df.iterrows():
+for idx, row in tqdm(df.iterrows()):
     doc = literal_eval(row['토큰들리스트'])
 
     p_sent_cnt = 0
@@ -86,9 +87,12 @@ print('doc labelling completed')
 
 date_model_result = []
 
-for i in df['date'].unique():
-    p_doc_cnt = df[(df['date'] == i) & (df['doc_model_result'] == 1)].count()
-    n_doc_cnt = df[(df['date'] == i) & (df['doc_model_result'] == -1)].count()
+for i in tqdm(df['date'].unique()):
+    try:
+        p_doc_cnt = df[(df['date'] == i) & (df['doc_model_result'] == 1)].count()
+        n_doc_cnt = df[(df['date'] == i) & (df['doc_model_result'] == -1)].count()
+    except: pass
+
     if p_doc_cnt > n_doc_cnt:
         date_model_result.append(1)
     if p_doc_cnt < n_doc_cnt:

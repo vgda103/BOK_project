@@ -29,18 +29,23 @@ def txt2filtered(self):
 
 # report tokenizing
 for i in reportlist:
-    with open(report_dir+i, 'r') as f:
-        content = f.read()
-        tokens = txt2filtered(content)
+    if not os.path.exists(os.path.join(token_dir, i)):
+        with open(report_dir+i, 'r', encoding='utf-8') as f:
+            content = f.read()
+            tokens = txt2filtered(content)
 
-    with open(token_dir+i, 'w') as f:
-        f.write(str(tokens)) 
+        with open(token_dir+i, 'w', encoding='utf-8') as f:
+            f.write(str(tokens))
+        f.close() 
 
 # bok tokenizing
 for i in bok_list:
-    with open(bok_dir+i, 'r') as f:
-        content = f.read()
-        tokens = txt2filtered(content)
-    
-    with open(token_dir+i, 'w') as f:
-        f.write(str(tokens))
+    if not os.path.exists(os.path.join(token_dir, i)):
+        with open(bok_dir+i, 'r', encoding='utf-8') as f:
+            content = f.read()
+            tokens = txt2filtered(content)
+        
+        with open(token_dir+i, 'w', encoding='utf-8') as f:
+            f.write(str(tokens))
+        f.close()
+print('전처리 완료')
